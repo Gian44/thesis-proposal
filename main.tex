@@ -1,0 +1,140 @@
+\documentclass{article}
+\usepackage{changepage}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage[backend=biber, style=numeric, citestyle=ieee]{biblatex}
+\usepackage{tabularx}
+\usepackage[table]{xcolor}
+\usepackage{forloop}
+\usepackage{longtable} % This is required for long tables
+\newcounter{loopcntr}
+\newcommand{\rpt}[2][1]{ \forloop{loopcntr}{0}{\value{loopcntr}<#1}{#2} }
+\newcommand{\on}[1][1]{\forloop{loopcntr}{0}{\value{loopcntr}<#1}{&\cellcolor{gray}}}
+\newcommand{\off}[1][1]{\forloop{loopcntr}{0}{\value{loopcntr}<#1}{&}}
+
+\newenvironment{subs}
+  {\adjustwidth{3em}{0pt}}
+  {\endadjustwidth}
+
+\titleformat*{\section}{\small\bfseries}
+\titleformat*{\subsection}{\small\bfseries}
+\titleformat*{\subsubsection}{\small\bfseries}
+\titleformat*{\paragraph}{\small\bfseries}
+\titleformat*{\subparagraph}{\small\bfseries}
+
+
+\addbibresource{references.bib}
+\begin{document}
+
+\title{\textbf{A Hybrid Multi-Swarm Particle Swarm Optimization and Integer Programming Solution for the University Course Timetabling Problem}}
+\author{Gian Myrl D. Renomeron\\
+    CMSC 199.1: Research in Computer Science I\\
+    Division of Natural Sciences and Mathematics\\
+    University of the Philippines Tacloban College\\
+    {\small \href{mailto:gdrenomeron@up.edu.ph}{gdrenomeron@up.edu.ph}}
+}
+\date{}
+
+\maketitle
+\pagebreak
+    \section*{A Hybrid Multi-Swarm Particle Swarm Optimization and Integer Programming Solution for the University Course Timetabling Problem}
+
+\section{Introduction}
+\label{sec:introduction}
+\begin{subs}
+\subsection{Background of the Study}
+\label{subsec:background}
+\begin{itemize}
+    \item[] University Course Timetabling Problem (UCTP)
+    \item[] Integer Programming (IP)
+    \item[] Swarm Intelligence
+    \item[] Particle Swarm Optimization (PSO)
+    \item[] Multi-Swarm Particle Swarm Optimization (MSPSO)
+    \item[] Hybrid Optimization Approach
+\end{itemize}
+
+% Insert content here
+
+\subsection{Related Works}
+\label{subsec:relatedworks}
+
+% Insert content here
+
+\end{subs}
+\section{Statement of the Problem}
+\label{sec:problemstatement}
+
+The UCTP problem is quite complex and key for any institution of learning because it considers assigning courses to specific rooms and time slots while considering constraints such as room capacities, course prerequisites, and faculty courses. \cite{Arratia-Martinez2021-io} To this date, most universities still consider non-optimal manual or heuristic methods, and the inefficiencies include uneven teaching loads and a mismatch between qualifications and requirements in course teaching. \cite{Oswald_C2013-zo} While the complexity of the problem is increased, it happens to be highly infeasible to find the best solutions, especially when there are conflicting constraints that need to be fulfilled. 
+
+While in the current literature IP\cite{Arratia-Martinez2021-io} \cite{Torres2021-ir}  and PSO \cite{Oswald_C2013-zo} \cite{Ali2014-mb} are applied separately for solving optimization problems, a hybrid approach combining the strengths of both has not been produced, particularly with MSPSO \cite{XIA2018126} to handle the complexities of the issue under discussion. The absence of such approaches means current solutions may not optimize the timetabling process or institute needs to the fullest extent. This gap requires a more sophisticated and efficient approach to improving the quality of fairness in faculty course assignments. 
+
+This study aims to develop a hybrid optimization approach combining MSPSO with IP that effectively solves the UCTP problem. The combination of these methods would enable the research to explore a large solution space more effectively, combined with the proximity of a better solution within a reasonable time frame, to help ensure that many other constraints, such as room capacities, course prerequisites, and scheduling conflicts are well satisfied. The approach would then be estimated using such key metrics as workload balance, course-faculty alignment, and computational efficiency to enhance the proper resource allocation within an institution. 
+
+\section{Objectives of the Study}
+\label{sec:objectives}
+
+\subsection{General Objective}
+\label{subsec:generalobjective}
+
+To design and develop a hybrid optimization approach that merges Multi-Swarm Particle Swarm Optimization with IP to solve the University Course Timetabling Problem.  
+
+\subsection{Specific Objectives}
+\label{subsec:specificobjectives}
+\begin{enumerate}
+    \item To analyze constraints and requirements involved in UCTP, such as room availability, course prerequisites, and faculty courses.
+    \item To design and implement a Multi-Swarm Particle Swarm Optimization (MSPSO) algorithm to effectively explore the solution space for course scheduling. 
+    \item To formulate an Integer Programming (IP) model specifically to enhance MSPSO-evolved solutions to fit well against the hard constraints, maximize resource utilization, as well as schedulability.
+    \item To develop the hybrid model of MSPSO-IP and validate using real-time data.
+    \item To compare the hybrid model and existing algorithms in terms of performance.
+\end{enumerate}
+
+\section{Scope and Limitation}
+\label{sec:scopeandlimitation}
+
+This paper presents a hybrid optimization approach, in which Multi-Swarm Particle Swarm Optimization and Integer Programming are combined to design the solution to the University Course Timetabling Problem. It includes an exhaustive analysis of critical constraints such as room availability, course prerequisites, and faculty course assignments. The proposed hybrid model will improve the effectiveness of schedules by addressing multiple constraints across different institutions. It is validated using real-time data to ensure adaptability in other contexts and environments. In addition, the evaluation of the hybrid model will incorporate a comparison with existing algorithms to fulfill the faculty preferences for an even more comprehensive benchmark.
+
+This study still bears a few limitations despite its strengths. Though the system aims to maximize resource usage and minimize potential resource conflicts, it does not consider more dynamic changes that may occur in scheduling, such as a course change at a stage of scheduling or an immediate availability of rooms at some stage of scheduling. The model will be tested strictly within constraints and data about multiple institutions that may be available but would limit the general applicability of results from this study in different educational scenarios. Therefore, this study focuses on the hard constraints, though subjective elements of scheduling may not be completely reflected in the solution developed considering faculty preferences for benchmarking purposes only.
+
+
+\section{Significance of the Study}
+\label{sec:significance}
+
+In this study, the novelty behind solving the UCTP problem involves developing a hybrid solution that combines Multi-Swarm Particle Swarm Optimization and Integer Programming techniques. This will be important because of its ability to handle weight and room allocation issues and conflict-free timetables, maximizing the use of all entities. Using the hybrid approach, wide exploration of potential solutions using MSPSO would be possible while refining these using IP to ensure the solutions are within the hard constraints. Thus, this optimization technique can lay a foundation for automating course scheduling in many institutions to make the process more efficient and fair. 
+
+\section{Theoretical and Conceptual Framework}
+\label{sec:theoreticalframework}
+
+\section{Methodology}
+\label{sec
+}
+
+This section outlines the hybrid methodology combining Multi-Swarm Particle Swarm Optimization (MSPSO) and Integer Programming (IP) to effectively solve the University Course Timetabling Problem (UCTP).
+
+\subsection{Problem Decomposition}
+\label{subsec
+} \begin{itemize} \item Decompose the UCTP into exploratory and refinement components. \item Identify exploratory tasks suitable for MSPSO and refinement tasks for IP. \item Define the structure of the solutions represented by particles in MSPSO, including course, room, and time slot assignments. \end{itemize}
+
+\subsection{Multi-Swarm Particle Swarm Optimization (MSPSO)}
+\label{subsec
+} \begin{itemize} \item Initialize multiple swarms to explore various potential timetabling solutions. \item Define the representation of solutions (particle encoding) for the assignment of courses to rooms and time slots. \item Develop a fitness function to evaluate solutions based on: \begin{itemize} \item Minimizing scheduling conflicts (e.g., room clashes, instructor availability). \item Maximizing resource usage (e.g., optimal room utilization and course distribution across time slots). \end{itemize} \item Implement the MSPSO algorithm: \begin{itemize} \item Update particle positions and velocities based on individual and global best solutions. \item Perform iterations until a convergence criterion is met or a predefined number of iterations is reached. \item Collect the best solutions generated by the swarms for refinement. \end{itemize} \end{itemize}
+
+\subsection{Integer Programming (IP) Refinement}
+\label{subsec
+} \begin{itemize} \item Formulate an Integer Programming model based on the best candidate timetables from MSPSO. \item Define decision variables, objective function, and constraints: \begin{itemize} \item Decision variables: Assignments of courses to specific time slots and rooms. \item Objective function: Minimize conflicts (e.g., no double-booked rooms) and optimize the balance of room and time slot usage. \item Hard constraints: No overlaps between courses scheduled in the same room at the same time, no double-booking of instructors, etc. \end{itemize} \item Use the IP solver to refine the timetable by ensuring all hard constraints are satisfied while optimizing the objective function. \end{itemize}
+
+\subsection{Hybrid Iteration}
+\label{subsec
+} \begin{itemize} \item Optionally, implement an iterative feedback loop between MSPSO and IP: \begin{itemize} \item Re-apply MSPSO to the refined solutions from IP to explore new or improved regions of the solution space. \item Adapt MSPSO parameters based on the results from the IP refinement process to search for better solutions. \end{itemize} \item Repeat the hybrid optimization process for several iterations to further enhance solution quality and robustness. \end{itemize}
+
+\subsection{Post-processing and Evaluation}
+\label{subsec
+} \begin{itemize} \item Post-process the final timetabling solutions to evaluate against key performance metrics: \begin{itemize} \item Conflict minimization: Ensure no room or instructor conflicts in the final schedule. \item Course-resource alignment: Maximize the alignment of course scheduling with available room resources and time slots. \item Computational efficiency: Measure the overall performance of the hybrid optimization approach in terms of speed and accuracy. \end{itemize} \item Select the best overall timetable based on the combination of fitness and objective evaluations. 
+\end{itemize}
+
+\section{Schedule of Activities}
+\label{sec:schedule}
+
+\input{schedule}
+
+\printbibliography 
+\end{document}
