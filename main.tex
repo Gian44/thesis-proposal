@@ -6,7 +6,7 @@
 \usepackage{tabularx}
 \usepackage[table]{xcolor}
 \usepackage{forloop}
-\usepackage{longtable} % This is required for long tables
+\usepackage{longtable}
 \newcounter{loopcntr}
 \newcommand{\rpt}[2][1]{ \forloop{loopcntr}{0}{\value{loopcntr}<#1}{#2} }
 \newcommand{\on}[1][1]{\forloop{loopcntr}{0}{\value{loopcntr}<#1}{&\cellcolor{gray}}}
@@ -39,26 +39,29 @@
 \pagebreak
     \section*{A Hybrid Multi-Swarm Particle Swarm Optimization and Integer Programming Solution for the University Course Timetabling Problem}
 
-\section{Introduction}
-\label{sec:introduction}
-\begin{subs}
-\subsection{Background of the Study}
-\label{subsec:background}
-\begin{itemize}
-    \item[] University Course Timetabling Problem (UCTP)
-    \item[] Integer Programming (IP)
-    \item[] Swarm Intelligence
-    \item[] Particle Swarm Optimization (PSO)
-    \item[] Multi-Swarm Particle Swarm Optimization (MSPSO)
-    \item[] Hybrid Optimization Approach
-\end{itemize}
-
-% Insert content here
-
-\subsection{Related Works}
-\label{subsec:relatedworks}
-
-% Insert content here
+    \section{Introduction}
+    \label{sec:introduction}
+    \begin{subs}
+    \subsection{Background of the Study}
+    \label{subsec:background}
+    
+    The University Course Timetabling Problem (UCTP) is a well-known optimization challenge in academic institutions, where courses, professors, and students must be scheduled within fixed time slots and available rooms. This problem is complex due to various constraints, such as ensuring no conflicts in professor schedules, meeting room capacities, and satisfying the availability of both professors and students (Arratia-Martinez et al., 2021) \cite{Arratia-Martinez2021-io}. Solutions for the UCTP are vital for efficiently managing resources and improving the quality of education delivery.
+    
+    Integer Programming (IP) is a traditional approach used to solve the UCTP by formulating it as a mathematical model with decision variables and constraints. IP has been effective in creating feasible solutions but often struggles with larger instances of the problem due to computational complexity (Torres et al., 2021) \cite{Torres2021-ir}. As a result, alternative methods, including heuristic and metaheuristic approaches, have been explored.
+    
+    Swarm Intelligence (SI) is a popular technique for solving complex optimization problems, inspired by the collective behavior of social insects and animals. It has gained traction due to its adaptability and ability to find near-optimal solutions efficiently (Oswald and Durai, 2013) \cite{Oswald_C2013-zo}. Particle Swarm Optimization (PSO), one of the most widely used SI algorithms, mimics the social behavior of birds flocking or fish schooling. It optimizes solutions by iteratively improving candidate solutions based on individual and group experiences (Chen and Shih, 2013) \cite{Chen2013-cp}.
+    
+    However, PSO has limitations, especially in dealing with complex, large-scale problems like the UCTP. To overcome these challenges, enhancements such as the Multi-Swarm Particle Swarm Optimization (MSPSO) have been developed. MSPSO divides the population into multiple swarms, allowing for diversified search processes and improved global exploration capabilities (Xia et al., 2018) \cite{XIA2018126}. Such an approach helps balance exploration and exploitation, making it more effective for optimizing UCTP instances.
+    
+    In addition, hybrid optimization approaches have emerged, combining PSO with other optimization techniques to further enhance performance. These hybrid methods leverage the strengths of multiple algorithms, such as integrating PSO with genetic algorithms or integer programming models, to tackle UCTP in a more robust and efficient manner (Gunawan et al., 2008) \cite{Gunawan2008-ga}. Research shows that these hybrid strategies can yield better solutions compared to standalone techniques, especially in complex scenarios with multiple conflicting constraints (Dofadar et al., 2021) \cite{Dofadar2021-ha}.
+    
+    \subsection{Related Works}
+    \label{subsec:relatedworks}
+    
+    % Insert content here
+    
+    \end{subs}
+    
 
 \end{subs}
 \section{Statement of the Problem}
