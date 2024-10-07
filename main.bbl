@@ -55,6 +55,7 @@
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{abstract}{One of the decision problems in many organizations and institutions is to decide how to schedule different tasks, in particular, in higher education institutions. One of the main problems is the university course timetabling problem (UCTP): this problem consists of the allocation of events (courses, professors, and students) to a number of fixed time slots and rooms, this at the beginning of each academic period of the universities. The existent formulations include particular requirements from different educational levels and institutions, as in our case. In this paper, we focus on the university course timetabling problem with the assignment of professor-course-time slot for an institution in Mexico. Timetabling is constructed for the disciplinary courses that are offered by one of the academic departments. The main characteristics are as follows: (1) there are full-time and part-time professors; (2) a mandatory fixed number of courses has to be assigned to each full-time professor according to their academic profile; (3) there is a maximum number of courses assigned to part-time professors; (4) a professor-course matrix that specifies the valid assignation is defined; and (5) mandatory time periods for courses in different semesters are established and other traditional constraints. We present the integer linear programming model proposed to solve the case studied. The optimal solution was obtained with low computational effort through the classical branch-and-bound algorithm. We describe the complete timetable to show the model effectiveness.}
       \field{journaltitle}{Math. Probl. Eng.}
       \field{month}{1}
       \field{title}{University course timetabling problem with professor assignment}
@@ -65,16 +66,12 @@
     \endentry
     \entry{Oswald_C2013-zo}{article}{}{}
       \name{author}{2}{}{%
-        {{hash=ab227f2abc3a5b6659cf43cddb072f24}{%
-           family={C.},
-           familyi={C\bibinitperiod},
-           given={Oswald},
-           giveni={O\bibinitperiod}}}%
-        {{hash=fba8b92996941dec1baf699853c984df}{%
-           family={C},
-           familyi={C\bibinitperiod},
-           given={Anand\bibnamedelimb Deva\bibnamedelima Durai},
-           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=04e433575776978f46faea0c860c0d0d}{%
+           family={{Oswald C.}},
+           familyi={O\bibinitperiod}}}%
+        {{hash=d8fb2b4f6f52ce469d048c0f9cc62a1d}{%
+           family={{Anand Deva Durai C}},
+           familyi={A\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Chennai, India}%
@@ -82,19 +79,19 @@
       \list{publisher}{1}{%
         {IEEE}%
       }
-      \strng{namehash}{d35b7d6d290cc0a0fade0db80285f1e8}
-      \strng{fullhash}{d35b7d6d290cc0a0fade0db80285f1e8}
-      \strng{fullhashraw}{d35b7d6d290cc0a0fade0db80285f1e8}
-      \strng{bibnamehash}{d35b7d6d290cc0a0fade0db80285f1e8}
-      \strng{authorbibnamehash}{d35b7d6d290cc0a0fade0db80285f1e8}
-      \strng{authornamehash}{d35b7d6d290cc0a0fade0db80285f1e8}
-      \strng{authorfullhash}{d35b7d6d290cc0a0fade0db80285f1e8}
-      \strng{authorfullhashraw}{d35b7d6d290cc0a0fade0db80285f1e8}
+      \strng{namehash}{5cb70886891f6d878be9ebf61e383598}
+      \strng{fullhash}{5cb70886891f6d878be9ebf61e383598}
+      \strng{fullhashraw}{5cb70886891f6d878be9ebf61e383598}
+      \strng{bibnamehash}{5cb70886891f6d878be9ebf61e383598}
+      \strng{authorbibnamehash}{5cb70886891f6d878be9ebf61e383598}
+      \strng{authornamehash}{5cb70886891f6d878be9ebf61e383598}
+      \strng{authorfullhash}{5cb70886891f6d878be9ebf61e383598}
+      \strng{authorfullhashraw}{5cb70886891f6d878be9ebf61e383598}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{2013 Fifth International Conference on Advanced Computing ({ICoAC})}
+      \field{booktitle}{2013 Fifth International Conference on Advanced Computing ({ICoAC})}
       \field{month}{12}
       \field{title}{Novel hybrid {PSO} algorithms with search optimization strategies for a University Course Timetabling Problem}
       \field{year}{2013}
@@ -136,6 +133,7 @@
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{abstract}{One of the most challenging tasks performed by the department chair every semester is the assignment of faculty members to courses. This task, when done manually, is tedious to accomplish because of the numerous faculty-course combinations, the policies to be considered, faculty retirements, faculty resignations, and the hiring of faculty members. Satisfying the needs of employees has been increasingly significant in the scheduling decisions of different companies. In this study, a binary integer programming model that considers the preferences of faculty members was proposed to solve the faculty-course allocation problem. Constraints that permit the faculty members to perform other duties aside from instruction were included in the model. The model was applied to the faculty-course assignment of a department. Schedules that considered both policies in educational institutions and the preferences of faculty members were obtained.}
       \field{journaltitle}{Philipp J. Sci.}
       \field{month}{6}
       \field{number}{4}
@@ -205,6 +203,8 @@
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{abstract}{This paper proposes a multi-swarm particle swarm optimization (MSPSO) that consists of three novel strategies to balance the exploration and exploitation abilities. The new proposed MSPSO in this work is based on multiple swarms framework cooperating with the dynamic sub-swarm number strategy (DNS), sub-swarm regrouping strategy (SRS), and purposeful detecting strategy (PDS). Firstly, the DNS divides the entire population into many sub-swarms in the early stage and periodically reduces the number of sub-swarms (i.e., increase the size of each sub-swarm) along with the evolutionary process. This is helpful for balancing the exploration ability early and the exploitation ability late, respectively. Secondly, in each DNS period with special number of sub-swarms, the SRS is to regroup these sub-swarms based on the stagnancy information of the global best position. This is helpful for diffusing and sharing the search information among different sub-swarms to enhance the exploitation ability. Thirdly, the PDS is relying on some historical information of the search process to detect whether the population has been trapped into a potential local optimum, so as to help the population jump out of the current local optimum for better exploration ability. The comparisons among MSPSO and other 13 peer algorithms on the CEC2013 test suite and 4 real applications suggest that MSPSO is a very reliable and highly competitive optimization algorithm for solving different types of functions. Furthermore, the extensive experimental results illustrate the effectiveness and efficiency of the three proposed strategies used in MSPSO.}
+      \field{issn}{1568-4946}
       \field{journaltitle}{Applied Soft Computing}
       \field{title}{A multi-swarm particle swarm optimization algorithm based on dynamical topology and purposeful detecting}
       \field{volume}{67}
@@ -213,6 +213,12 @@
       \range{pages}{15}
       \verb{doi}
       \verb https://doi.org/10.1016/j.asoc.2018.02.042
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1568494618301017
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1568494618301017
       \endverb
       \keyw{Particle swarm optimization,Dynamic sub-swarm number,Sub-swarm regrouping,Purposeful detecting,Local-searching}
     \endentry
