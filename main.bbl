@@ -19,6 +19,48 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
+    \entry{Zhang2014-ak}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=d308b6088c7ef7e33feb2e2e101f5a08}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Dezhen},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1b3c81fb7868b9ac08e86c7731a7ea35}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Saijun},
+           giveni={S\bibinitperiod}}}%
+        {{hash=43cbf4de0e1de70716b759c2059a14d2}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Weishi},
+           giveni={W\bibinitperiod}}}%
+        {{hash=13f75a20b64a1922e82ed095eddf5794}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Shujuan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Shenyang, China}%
+      }
+      \strng{namehash}{17ed84b0d942ad3862756d0c6dd8c481}
+      \strng{fullhash}{55c66947e3fd416e0538b5c24a23fd8a}
+      \strng{fullhashraw}{55c66947e3fd416e0538b5c24a23fd8a}
+      \strng{bibnamehash}{17ed84b0d942ad3862756d0c6dd8c481}
+      \strng{authorbibnamehash}{17ed84b0d942ad3862756d0c6dd8c481}
+      \strng{authornamehash}{17ed84b0d942ad3862756d0c6dd8c481}
+      \strng{authorfullhash}{55c66947e3fd416e0538b5c24a23fd8a}
+      \strng{authorfullhashraw}{55c66947e3fd416e0538b5c24a23fd8a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 11th World Congress on Intelligent Control and Automation}
+      \field{title}{A novel greedy heuristic algorithm for university course timetabling problem}
+      \field{year}{2014}
+    \endentry
     \entry{Arratia-Martinez2021-io}{article}{}{}
       \name{author}{3}{}{%
         {{hash=e64b241bef049468ff2d7d9efeb58cfe}{%
@@ -51,8 +93,8 @@
       \strng{authornamehash}{4ca387915ee34d95604ba45635f75fa1}
       \strng{authorfullhash}{a31c94ed89605de9d335d331deac4e6e}
       \strng{authorfullhashraw}{a31c94ed89605de9d335d331deac4e6e}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{One of the decision problems in many organizations and institutions is to decide how to schedule different tasks, in particular, in higher education institutions. One of the main problems is the university course timetabling problem (UCTP): this problem consists of the allocation of events (courses, professors, and students) to a number of fixed time slots and rooms, this at the beginning of each academic period of the universities. The existent formulations include particular requirements from different educational levels and institutions, as in our case. In this paper, we focus on the university course timetabling problem with the assignment of professor-course-time slot for an institution in Mexico. Timetabling is constructed for the disciplinary courses that are offered by one of the academic departments. The main characteristics are as follows: (1) there are full-time and part-time professors; (2) a mandatory fixed number of courses has to be assigned to each full-time professor according to their academic profile; (3) there is a maximum number of courses assigned to part-time professors; (4) a professor-course matrix that specifies the valid assignation is defined; and (5) mandatory time periods for courses in different semesters are established and other traditional constraints. We present the integer linear programming model proposed to solve the case studied. The optimal solution was obtained with low computational effort through the classical branch-and-bound algorithm. We describe the complete timetable to show the model effectiveness.}
@@ -87,8 +129,8 @@
       \strng{authornamehash}{5cb70886891f6d878be9ebf61e383598}
       \strng{authorfullhash}{5cb70886891f6d878be9ebf61e383598}
       \strng{authorfullhashraw}{5cb70886891f6d878be9ebf61e383598}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{2013 Fifth International Conference on Advanced Computing ({ICoAC})}
@@ -143,6 +185,109 @@
       \field{pages}{679}
       \range{pages}{1}
     \endentry
+    \entry{Algethami2021-mm}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=accd9cb78cc0a0acba8ec4622d8adf01}{%
+           family={Algethami},
+           familyi={A\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=6c814b67c8422d565c89b3873436a283}{%
+           family={Laesanklang},
+           familyi={L\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{6a73b0b6b30fffe526d37b0c14a4234a}
+      \strng{fullhash}{6a73b0b6b30fffe526d37b0c14a4234a}
+      \strng{fullhashraw}{6a73b0b6b30fffe526d37b0c14a4234a}
+      \strng{bibnamehash}{6a73b0b6b30fffe526d37b0c14a4234a}
+      \strng{authorbibnamehash}{6a73b0b6b30fffe526d37b0c14a4234a}
+      \strng{authornamehash}{6a73b0b6b30fffe526d37b0c14a4234a}
+      \strng{authorfullhash}{6a73b0b6b30fffe526d37b0c14a4234a}
+      \strng{authorfullhashraw}{6a73b0b6b30fffe526d37b0c14a4234a}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{month}{8}
+      \field{title}{A Mathematical Model for Course Timetabling Problem With Faculty-Course Assignment Constraints}
+      \field{volume}{9}
+      \field{year}{2021}
+      \field{pages}{111666\bibrangedash 111682}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2021.3103495
+      \endverb
+    \endentry
+    \entry{kennedy1995particle}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=24fc7a255aa314e71ac724efd7ca5193}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=21da0cb6f60840b2b15a6264d64909d8}{%
+           family={Eberhart},
+           familyi={E\bibinitperiod},
+           given={Russell},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{66c6dcfa4d8d0a108681f149b4837715}
+      \strng{fullhash}{66c6dcfa4d8d0a108681f149b4837715}
+      \strng{fullhashraw}{66c6dcfa4d8d0a108681f149b4837715}
+      \strng{bibnamehash}{66c6dcfa4d8d0a108681f149b4837715}
+      \strng{authorbibnamehash}{66c6dcfa4d8d0a108681f149b4837715}
+      \strng{authornamehash}{66c6dcfa4d8d0a108681f149b4837715}
+      \strng{authorfullhash}{66c6dcfa4d8d0a108681f149b4837715}
+      \strng{authorfullhashraw}{66c6dcfa4d8d0a108681f149b4837715}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of IEEE International Conference on Neural Networks}
+      \field{title}{Particle swarm optimization}
+      \field{year}{1995}
+      \field{pages}{1942\bibrangedash 1948}
+      \range{pages}{7}
+    \endentry
+    \entry{Chen2013-cp}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=592a54be5086eeb0990c844570b73b6c}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Ruey-Maw},
+           giveni={R\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=af145828db2770c29534face46886480}{%
+           family={Shih},
+           familyi={S\bibinitperiod},
+           given={Hsiao-Fang},
+           giveni={H\bibinithyphendelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{7705a9afd44ad6662792cc9f1b535c81}
+      \strng{fullhash}{7705a9afd44ad6662792cc9f1b535c81}
+      \strng{fullhashraw}{7705a9afd44ad6662792cc9f1b535c81}
+      \strng{bibnamehash}{7705a9afd44ad6662792cc9f1b535c81}
+      \strng{authorbibnamehash}{7705a9afd44ad6662792cc9f1b535c81}
+      \strng{authornamehash}{7705a9afd44ad6662792cc9f1b535c81}
+      \strng{authorfullhash}{7705a9afd44ad6662792cc9f1b535c81}
+      \strng{authorfullhashraw}{7705a9afd44ad6662792cc9f1b535c81}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Algorithms}
+      \field{month}{4}
+      \field{title}{Solving University Course Timetabling Problems Using Constriction Particle Swarm Optimization with Local Search}
+      \field{volume}{6}
+      \field{year}{2013}
+      \field{pages}{227\bibrangedash 244}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.3390/a6020227
+      \endverb
+    \endentry
     \entry{Ali2014-mb}{article}{}{}
       \name{author}{2}{}{%
         {{hash=2e79e31201060e0b1b793dc013593a6f}{%
@@ -164,14 +309,113 @@
       \strng{authornamehash}{a034a2b82d4905191e18a48b7bcbee53}
       \strng{authorfullhash}{a034a2b82d4905191e18a48b7bcbee53}
       \strng{authorfullhashraw}{a034a2b82d4905191e18a48b7bcbee53}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Computer Applications}
       \field{title}{{UCTP} based on Hybrid {PSO} with Tabu Search Algorithm using Mosul university dataset}
       \field{volume}{975}
       \field{year}{2014}
+    \endentry
+    \entry{Gunawan2008-ga}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=5399e3d015894d641257c4c5aa53aca1}{%
+           family={Aldy\bibnamedelima Gunawan},
+           familyi={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={K.\bibnamedelimi M.\bibnamedelimi Ng},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=959e4a3edff22ea2134ccab118c51cd6}{%
+           family={Ong},
+           familyi={O\bibinitperiod},
+           given={H.\bibnamedelimi L.},
+           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{fbef32a620addfb83b35223bf986b473}
+      \strng{fullhash}{fbef32a620addfb83b35223bf986b473}
+      \strng{fullhashraw}{fbef32a620addfb83b35223bf986b473}
+      \strng{bibnamehash}{fbef32a620addfb83b35223bf986b473}
+      \strng{authorbibnamehash}{fbef32a620addfb83b35223bf986b473}
+      \strng{authornamehash}{fbef32a620addfb83b35223bf986b473}
+      \strng{authorfullhash}{fbef32a620addfb83b35223bf986b473}
+      \strng{authorfullhashraw}{fbef32a620addfb83b35223bf986b473}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Information and Management Sciences}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{A Genetic Algorithm for the Teacher Assignment Problem for a University in Indonesia}
+      \field{volume}{19}
+      \field{year}{2008}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1000/ijims.2008.237502795
+      \endverb
+    \endentry
+    \entry{Bacanin2022-multiswarm}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=f42009c9f7ce36e37b61c76cf3fff6cd}{%
+           family={Bacanin},
+           familyi={B\bibinitperiod},
+           given={Nebojsa},
+           giveni={N\bibinitperiod}}}%
+        {{hash=672c6c4b21192169c59e3d6d0dbae164}{%
+           family={Stoean},
+           familyi={S\bibinitperiod},
+           given={Catalin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ebc44a8d2ed1bf84832251691c7d8cfd}{%
+           family={Zivkovic},
+           familyi={Z\bibinitperiod},
+           given={Miodrag},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f2180c741fc63d25d30063265b0fc3d0}{%
+           family={Jovanovic},
+           familyi={J\bibinitperiod},
+           given={Dijana},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ab2f4251e1033d6887c7a611fc74c8c9}{%
+           family={Antonijevic},
+           familyi={A\bibinitperiod},
+           given={Milos},
+           giveni={M\bibinitperiod}}}%
+        {{hash=07ae68bfc7bda7d6f0f732eb0b737c9f}{%
+           family={Mladenovic},
+           familyi={M\bibinitperiod},
+           given={Djordje},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{91e44bca747e2e8c9c77c8ebcd5cfacc}
+      \strng{fullhash}{172b01a4d48f1821dd7fc6c78c694c89}
+      \strng{fullhashraw}{172b01a4d48f1821dd7fc6c78c694c89}
+      \strng{bibnamehash}{91e44bca747e2e8c9c77c8ebcd5cfacc}
+      \strng{authorbibnamehash}{91e44bca747e2e8c9c77c8ebcd5cfacc}
+      \strng{authornamehash}{91e44bca747e2e8c9c77c8ebcd5cfacc}
+      \strng{authorfullhash}{172b01a4d48f1821dd7fc6c78c694c89}
+      \strng{authorfullhashraw}{172b01a4d48f1821dd7fc6c78c694c89}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{number}{11}
+      \field{title}{Multi-Swarm Algorithm for Extreme Learning Machine Optimization}
+      \field{volume}{22}
+      \field{year}{2022}
+      \field{pages}{4204}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s22114204
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3390/s22114204
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3390/s22114204
+      \endverb
     \endentry
     \entry{XIA2018126}{article}{}{}
       \name{author}{3}{}{%
@@ -199,8 +443,8 @@
       \strng{authornamehash}{c7d05f66074c793b6c495c2131bf4ab1}
       \strng{authorfullhash}{5e7832c475e9f7e46ef3c032bfe03ff9}
       \strng{authorfullhashraw}{5e7832c475e9f7e46ef3c032bfe03ff9}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper proposes a multi-swarm particle swarm optimization (MSPSO) that consists of three novel strategies to balance the exploration and exploitation abilities. The new proposed MSPSO in this work is based on multiple swarms framework cooperating with the dynamic sub-swarm number strategy (DNS), sub-swarm regrouping strategy (SRS), and purposeful detecting strategy (PDS). Firstly, the DNS divides the entire population into many sub-swarms in the early stage and periodically reduces the number of sub-swarms (i.e., increase the size of each sub-swarm) along with the evolutionary process. This is helpful for balancing the exploration ability early and the exploitation ability late, respectively. Secondly, in each DNS period with special number of sub-swarms, the SRS is to regroup these sub-swarms based on the stagnancy information of the global best position. This is helpful for diffusing and sharing the search information among different sub-swarms to enhance the exploitation ability. Thirdly, the PDS is relying on some historical information of the search process to detect whether the population has been trapped into a potential local optimum, so as to help the population jump out of the current local optimum for better exploration ability. The comparisons among MSPSO and other 13 peer algorithms on the CEC2013 test suite and 4 real applications suggest that MSPSO is a very reliable and highly competitive optimization algorithm for solving different types of functions. Furthermore, the extensive experimental results illustrate the effectiveness and efficiency of the three proposed strategies used in MSPSO.}
@@ -221,6 +465,472 @@
       \verb https://www.sciencedirect.com/science/article/pii/S1568494618301017
       \endverb
       \keyw{Particle swarm optimization,Dynamic sub-swarm number,Sub-swarm regrouping,Purposeful detecting,Local-searching}
+    \endentry
+    \entry{Wang2023-ps}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=f2e5f45a009e71ca581b562c25df1b47}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xi},
+           giveni={X\bibinitperiod}}}%
+        {{hash=ca5b703ccda019901eb39b6a91a55437}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Mingxing},
+           giveni={M\bibinitperiod}}}%
+        {{hash=64288176f389838aa5917ebca5ce2455}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Sheng},
+           giveni={S\bibinitperiod}}}%
+        {{hash=454ea16c1c785e565fba3d4d6241e59b}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Chao},
+           giveni={C\bibinitperiod}}}%
+        {{hash=64f28f7a553414b0c86eb7ca5f2ae492}{%
+           family={Jing},
+           familyi={J\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=a37d95e198a04d24caf370bd6214a518}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Zhongwen},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{285f5d8c256e01b478750d976f48fe64}
+      \strng{fullhash}{18e56f9be5d00ecac77085a7ac8a073a}
+      \strng{fullhashraw}{18e56f9be5d00ecac77085a7ac8a073a}
+      \strng{bibnamehash}{285f5d8c256e01b478750d976f48fe64}
+      \strng{authorbibnamehash}{285f5d8c256e01b478750d976f48fe64}
+      \strng{authornamehash}{285f5d8c256e01b478750d976f48fe64}
+      \strng{authorfullhash}{18e56f9be5d00ecac77085a7ac8a073a}
+      \strng{authorfullhashraw}{18e56f9be5d00ecac77085a7ac8a073a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Computational Intelligence and Design}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{A Hybrid Particle Swarm Optimization for Parallel Machine Scheduling with Shared and Multi-mode Resources}
+      \field{volume}{9}
+      \field{year}{2023}
+      \field{pages}{2473\bibrangedash 2479}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/TGCN.2023.3283509
+      \endverb
+    \endentry
+    \entry{Lih2018-km}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=6d1a7ebea7cb98d88e288e8362b77d87}{%
+           family={Lih},
+           familyi={L\bibinitperiod},
+           given={Bong\bibnamedelima Chia},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=b162f5efcf74ea4b3a625a6a71145f9f}{%
+           family={Nah},
+           familyi={N\bibinitperiod},
+           given={Sze\bibnamedelima San},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=d21f6e310ea2dd6608f11f705d21238e}{%
+           family={Bolhassan},
+           familyi={B\bibinitperiod},
+           given={Noor\bibnamedelima Alamshah},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Sarawak, Malaysia}%
+      }
+      \strng{namehash}{7c732575a1bac8e7119fc2e6fd4f4293}
+      \strng{fullhash}{06926e24774d85340cbd4bfdf1b59a21}
+      \strng{fullhashraw}{06926e24774d85340cbd4bfdf1b59a21}
+      \strng{bibnamehash}{06926e24774d85340cbd4bfdf1b59a21}
+      \strng{authorbibnamehash}{06926e24774d85340cbd4bfdf1b59a21}
+      \strng{authornamehash}{7c732575a1bac8e7119fc2e6fd4f4293}
+      \strng{authorfullhash}{06926e24774d85340cbd4bfdf1b59a21}
+      \strng{authorfullhashraw}{06926e24774d85340cbd4bfdf1b59a21}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 International Conference on Software, Knowledge Information, Industrial Management and Applications (SKIMA)}
+      \field{title}{A study on heuristic timetabling method for faculty course timetable problem}
+      \field{year}{2018}
+    \endentry
+    \entry{Yang2017-ly}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=3b74404f03ee71590b18f93b0458a147}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Yanming},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=bce0b3b719fd020e46daf1388bb260ec}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Wanchun},
+           giveni={W\bibinitperiod}}}%
+        {{hash=9c1ecb1f7c47cf02e9e994296746328c}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Qingdao, China}%
+      }
+      \strng{namehash}{d78e365ab4897583da8418c62441cdf6}
+      \strng{fullhash}{431d6af40e06454b1d89349665b0932a}
+      \strng{fullhashraw}{431d6af40e06454b1d89349665b0932a}
+      \strng{bibnamehash}{431d6af40e06454b1d89349665b0932a}
+      \strng{authorbibnamehash}{431d6af40e06454b1d89349665b0932a}
+      \strng{authornamehash}{d78e365ab4897583da8418c62441cdf6}
+      \strng{authorfullhash}{431d6af40e06454b1d89349665b0932a}
+      \strng{authorfullhashraw}{431d6af40e06454b1d89349665b0932a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2017 13th International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD)}
+      \field{title}{Mathematical modeling and system design of timetabling problem based on improved GA}
+      \field{year}{2017}
+    \endentry
+    \entry{Gao2024-apso}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=3899f7c4e2423f9a7e8168eeaf3b2963}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Mingqiang},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3a48ab36d454ca6696e7b6e644842fbe}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Xu},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{5708e4f284bd1d408e00f0bfda1f8e98}
+      \strng{fullhash}{5708e4f284bd1d408e00f0bfda1f8e98}
+      \strng{fullhashraw}{5708e4f284bd1d408e00f0bfda1f8e98}
+      \strng{bibnamehash}{5708e4f284bd1d408e00f0bfda1f8e98}
+      \strng{authorbibnamehash}{5708e4f284bd1d408e00f0bfda1f8e98}
+      \strng{authornamehash}{5708e4f284bd1d408e00f0bfda1f8e98}
+      \strng{authorfullhash}{5708e4f284bd1d408e00f0bfda1f8e98}
+      \strng{authorfullhashraw}{5708e4f284bd1d408e00f0bfda1f8e98}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Processes}
+      \field{title}{APSO-SL: An Adaptive Particle Swarm Optimization with State-Based Learning Strategy}
+      \field{volume}{12}
+      \field{year}{2024}
+      \field{pages}{400}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/pr12020400
+      \endverb
+    \endentry
+    \entry{Fallahi2022-qpso}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=7fe0b19a4134dbb0ac1d7f2b97ef164b}{%
+           family={Fallahi},
+           familyi={F\bibinitperiod},
+           given={Saeed},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c18d0d81a6eb5d5eb4d09a0773ef8501}{%
+           family={Taghadosi},
+           familyi={T\bibinitperiod},
+           given={Mohamadreza},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{afbdc05ffaf06e07adbff1022a6f0f53}
+      \strng{fullhash}{afbdc05ffaf06e07adbff1022a6f0f53}
+      \strng{fullhashraw}{afbdc05ffaf06e07adbff1022a6f0f53}
+      \strng{bibnamehash}{afbdc05ffaf06e07adbff1022a6f0f53}
+      \strng{authorbibnamehash}{afbdc05ffaf06e07adbff1022a6f0f53}
+      \strng{authornamehash}{afbdc05ffaf06e07adbff1022a6f0f53}
+      \strng{authorfullhash}{afbdc05ffaf06e07adbff1022a6f0f53}
+      \strng{authorfullhashraw}{afbdc05ffaf06e07adbff1022a6f0f53}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{title}{Quantum-behaved Particle Swarm Optimization Based on Solitons}
+      \field{volume}{12}
+      \field{year}{2022}
+      \field{pages}{13977}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-022-18351-0
+      \endverb
+    \endentry
+    \entry{Liu2017-clqpso}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=93d40b6dedb3119d20859f0f5a9ceced}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Tianyu},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a30db259f27bb5f90cfea9602f78d129}{%
+           family={Jiao},
+           familyi={J\bibinitperiod},
+           given={Licheng},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1eed08c83c7d616ba4f3cbc9114a508f}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Wenping},
+           giveni={W\bibinitperiod}}}%
+        {{hash=279cdaf0e592b5e5e0a0809b9b84f1c2}{%
+           family={Shang},
+           familyi={S\bibinitperiod},
+           given={Ronghua},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{9ac45541450ff20779edc724a40f745a}
+      \strng{fullhash}{c07a218823c83cf802885aa568a1bf8b}
+      \strng{fullhashraw}{c07a218823c83cf802885aa568a1bf8b}
+      \strng{bibnamehash}{9ac45541450ff20779edc724a40f745a}
+      \strng{authorbibnamehash}{9ac45541450ff20779edc724a40f745a}
+      \strng{authornamehash}{9ac45541450ff20779edc724a40f745a}
+      \strng{authorfullhash}{c07a218823c83cf802885aa568a1bf8b}
+      \strng{authorfullhashraw}{c07a218823c83cf802885aa568a1bf8b}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications in Nonlinear Science and Numerical Simulation}
+      \field{title}{Quantum-behaved Particle Swarm Optimization with Collaborative Attractors for Nonlinear Numerical Problems}
+      \field{volume}{44}
+      \field{year}{2017}
+      \field{pages}{167\bibrangedash 183}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/j.cnsns.2016.08.001
+      \endverb
+    \endentry
+    \entry{Zhan2009-apso}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=ddcbbde7f8d5969d3a8658eeb81b16e5}{%
+           family={Zhan},
+           familyi={Z\bibinitperiod},
+           given={Zhi-Hui},
+           giveni={Z\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=c085572f860d99d03a37c331ee13ff68}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=28aa5e4b66ee78162017f27b0b9d360b}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=3f76154b87858bac39f43989d27d7047}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={Henry\bibnamedelima Shu-Hung},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{38d9b161f80e9bc98a34be4396e9464b}
+      \strng{fullhash}{7a8e636d5eb726b0ad21c4deb3d1b619}
+      \strng{fullhashraw}{7a8e636d5eb726b0ad21c4deb3d1b619}
+      \strng{bibnamehash}{38d9b161f80e9bc98a34be4396e9464b}
+      \strng{authorbibnamehash}{38d9b161f80e9bc98a34be4396e9464b}
+      \strng{authornamehash}{38d9b161f80e9bc98a34be4396e9464b}
+      \strng{authorfullhash}{7a8e636d5eb726b0ad21c4deb3d1b619}
+      \strng{authorfullhashraw}{7a8e636d5eb726b0ad21c4deb3d1b619}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Systems, Man, and Cybernetics - Part B: Cybernetics}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{Adaptive Particle Swarm Optimization}
+      \field{volume}{39}
+      \field{year}{2009}
+      \field{pages}{1362\bibrangedash 1375}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1109/TSMCB.2009.2015956
+      \endverb
+    \endentry
+    \entry{blackwell2004multi}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=8f7df105c9e0f1f7b35a6511e23b7d0a}{%
+           family={Blackwell},
+           familyi={B\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d9e8de881fe2db78bf10c2e152430ab7}{%
+           family={Branke},
+           familyi={B\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag Berlin Heidelberg}%
+      }
+      \strng{namehash}{f1f2a1139a4d13800a6a718f4d5f2390}
+      \strng{fullhash}{f1f2a1139a4d13800a6a718f4d5f2390}
+      \strng{fullhashraw}{f1f2a1139a4d13800a6a718f4d5f2390}
+      \strng{bibnamehash}{f1f2a1139a4d13800a6a718f4d5f2390}
+      \strng{authorbibnamehash}{f1f2a1139a4d13800a6a718f4d5f2390}
+      \strng{authornamehash}{f1f2a1139a4d13800a6a718f4d5f2390}
+      \strng{authorfullhash}{f1f2a1139a4d13800a6a718f4d5f2390}
+      \strng{authorfullhashraw}{f1f2a1139a4d13800a6a718f4d5f2390}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the EvoWorkshops 2004, LNCS 3005}
+      \field{title}{Multi-swarm Optimization in Dynamic Environments}
+      \field{year}{2004}
+      \field{pages}{489\bibrangedash 500}
+      \range{pages}{12}
+    \endentry
+    \entry{Liu2023-pso}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=0b07af422f6616fac129405a8b4b1de4}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Qi},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=e6948f3f04a0e8685e7ecf57a4c3b124}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod}}}%
+        {{hash=538e00be099131eb89f9d1633c4c6c64}{%
+           family={Bilal},
+           familyi={B\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c09ffce8bcc845c548836c3433b8701b}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Houbing},
+           giveni={H\bibinitperiod}}}%
+        {{hash=b881686cdf68b52745dbcb6374b8008b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xiaodong},
+           giveni={X\bibinitperiod}}}%
+        {{hash=29d030e761131120ebc6205e31d52be9}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yonghong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=6761eff18dd67c6d473fcdd74874e025}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Xuefei},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{ef34355bba6fd21b02862fcb80dc4c98}
+      \strng{fullhash}{b1de64a0e8bec4fbb9caffc3164e8192}
+      \strng{fullhashraw}{b1de64a0e8bec4fbb9caffc3164e8192}
+      \strng{bibnamehash}{ef34355bba6fd21b02862fcb80dc4c98}
+      \strng{authorbibnamehash}{ef34355bba6fd21b02862fcb80dc4c98}
+      \strng{authornamehash}{ef34355bba6fd21b02862fcb80dc4c98}
+      \strng{authorfullhash}{b1de64a0e8bec4fbb9caffc3164e8192}
+      \strng{authorfullhashraw}{b1de64a0e8bec4fbb9caffc3164e8192}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Green Communications and Networking}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{A Multi-Swarm PSO Approach to Large-Scale Task Scheduling in a Sustainable Supply Chain Datacenter}
+      \field{volume}{7}
+      \field{year}{2023}
+      \field{pages}{1667\bibrangedash 1678}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1109/TGCN.2023.3283509
+      \endverb
+    \endentry
+    \entry{Alves2018-ar}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=1f3266cdc15ecdd73738d5a028f91f36}{%
+           family={Alves},
+           familyi={A\bibinitperiod},
+           given={Shara\bibnamedelimb S.\bibnamedelimi A.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=5502f44c0f5309eb33e8f75ba655cc09}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={Saulo\bibnamedelimb A.\bibnamedelimi F.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=7db7f869fcac391210b82efec5c14486}{%
+           family={Rocha\bibnamedelima Neto},
+           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Ajalmar\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Fortaleza, Ceará, Brazil}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{2ae72bc2ed041413d7d0ccb198bc31aa}
+      \strng{fullhash}{4760bb7cdfc4ca5f8f7c62a7c0682002}
+      \strng{fullhashraw}{4760bb7cdfc4ca5f8f7c62a7c0682002}
+      \strng{bibnamehash}{4760bb7cdfc4ca5f8f7c62a7c0682002}
+      \strng{authorbibnamehash}{4760bb7cdfc4ca5f8f7c62a7c0682002}
+      \strng{authornamehash}{2ae72bc2ed041413d7d0ccb198bc31aa}
+      \strng{authorfullhash}{4760bb7cdfc4ca5f8f7c62a7c0682002}
+      \strng{authorfullhashraw}{4760bb7cdfc4ca5f8f7c62a7c0682002}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 International Conference on Telecommunications and Signal Processing}
+      \field{title}{A novel educational timetabling solution through recursive genetic algorithms}
+      \field{year}{2018}
+    \endentry
+    \entry{parsopoulos2002recent}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=5435fc795b3b8a8c66f49df4d3f46eeb}{%
+           family={Parsopoulos},
+           familyi={P\bibinitperiod},
+           given={K.E.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=785fa682db8be4f8dd6b7d6879397775}{%
+           family={Vrahatis},
+           familyi={V\bibinitperiod},
+           given={M.N.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Kluwer Academic Publishers}%
+      }
+      \strng{namehash}{386d9b6a19e43af551f071343a1a011c}
+      \strng{fullhash}{386d9b6a19e43af551f071343a1a011c}
+      \strng{fullhashraw}{386d9b6a19e43af551f071343a1a011c}
+      \strng{bibnamehash}{386d9b6a19e43af551f071343a1a011c}
+      \strng{authorbibnamehash}{386d9b6a19e43af551f071343a1a011c}
+      \strng{authornamehash}{386d9b6a19e43af551f071343a1a011c}
+      \strng{authorfullhash}{386d9b6a19e43af551f071343a1a011c}
+      \strng{authorfullhashraw}{386d9b6a19e43af551f071343a1a011c}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Natural Computing}
+      \field{title}{Recent approaches to global optimization problems through Particle Swarm Optimization}
+      \field{volume}{1}
+      \field{year}{2002}
+      \field{pages}{235\bibrangedash 306}
+      \range{pages}{72}
     \endentry
   \enddatalist
 \endrefsection
