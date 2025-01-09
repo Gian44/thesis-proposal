@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.8)  29 DEC 2024 21:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.7)  9 JAN 2025 15:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/macer/OneDrive/Desktop/UP (but better)/CMSC/199.1/thesis-proposal/main.tex"
-(c:/Users/macer/OneDrive/Desktop/UP (but better)/CMSC/199.1/thesis-proposal/main.tex
+**"c:/Users/Gian/Desktop/Random acads/Thesis/thesis-proposal/main.tex"
+(c:/Users/Gian/Desktop/Random acads/Thesis/thesis-proposal/main.tex
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-08-16>
-(C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+L3 programming layer <2024-08-30>
+(C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
-(C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+(C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count194
@@ -23,36 +23,68 @@ File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count268
+\float@exts=\toks17
+\float@box=\box52
+\@float@everytoks=\toks18
+\@floatcapt=\box53
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks19
+\c@algorithm=\count269
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algpseudocode.sty
+Package: algpseudocode 
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count270
+\c@ALG@rem=\count271
+\c@ALG@nested=\count272
+\ALG@tlm=\skip51
+\ALG@thistlm=\skip52
+\c@ALG@Lnr=\count273
+\c@ALG@blocknr=\count274
+\c@ALG@storecount=\count275
+\c@ALG@tmpcounter=\count276
+\ALG@tmplength=\skip53
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2024/05/23 v2.17q AMS math features
-\@mathmargin=\skip51
+\@mathmargin=\skip54
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks17
+\@emptytoks=\toks20
 \ex@=\dimen142
-)) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+)) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen143
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count268
+\inf@bad=\count277
 LaTeX Info: Redefining \frac on input line 233.
-\uproot@=\count269
-\leftroot@=\count270
+\uproot@=\count278
+\leftroot@=\count279
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count271
-\DOTSCASE@=\count272
+\classnum@=\count280
+\DOTSCASE@=\count281
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
-\Mathstrutbox@=\box52
-\strutbox@=\box53
+\Mathstrutbox@=\box54
+\strutbox@=\box55
 LaTeX Info: Redefining \big on input line 721.
 LaTeX Info: Redefining \Big on input line 722.
 LaTeX Info: Redefining \bigg on input line 723.
@@ -60,118 +92,118 @@ LaTeX Info: Redefining \Bigg on input line 724.
 \big@size=\dimen144
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count273
+\macc@depth=\count282
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count274
+\c@MaxMatrixCols=\count283
 \dotsspace@=\muskip17
-\c@parentequation=\count275
-\dspbrk@lvl=\count276
-\tag@help=\toks18
-\row@=\count277
-\column@=\count278
-\maxfields@=\count279
-\andhelp@=\toks19
+\c@parentequation=\count284
+\dspbrk@lvl=\count285
+\tag@help=\toks21
+\row@=\count286
+\column@=\count287
+\maxfields@=\count288
+\andhelp@=\toks22
 \eqnshift@=\dimen145
 \alignsep@=\dimen146
 \tagshift@=\dimen147
 \tagwidth@=\dimen148
 \totwidth@=\dimen149
 \lineht@=\dimen150
-\@envbody=\toks20
-\multlinegap=\skip52
-\multlinetaggap=\skip53
-\mathdisplay@stack=\toks21
+\@envbody=\toks23
+\multlinegap=\skip55
+\multlinetaggap=\skip56
+\mathdisplay@stack=\toks24
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\enitkv@toks@=\toks22
-\labelindent=\skip54
+\enitkv@toks@=\toks25
+\labelindent=\skip57
 \enit@outerparindent=\dimen151
-\enit@toks=\toks23
-\enit@inbox=\box54
-\enit@count@id=\count280
-\enitdp@description=\count281
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+\enit@toks=\toks26
+\enit@inbox=\box56
+\enit@count@id=\count289
+\enitdp@description=\count290
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks24
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+\KV@toks@=\toks27
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen152
 \Gin@req@width=\dimen153
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+)) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count282
-)) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepage.sty
+\etb@tempcnta=\count291
+)) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count283
-\cp@tempcnt=\count284
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+\c@cp@cntr=\count292
+\cp@tempcnt=\count293
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2024-07-10 v7.01j Hypertext links for LaTeX
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+)) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count285
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+\c@section@level=\count294
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \@linkdim=\dimen154
-\Hy@linkcounter=\count286
-\Hy@pagecounter=\count287
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+\Hy@linkcounter=\count295
+\Hy@pagecounter=\count296
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count288
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+\Hy@SavedSpaceFactor=\count297
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2024-07-10 v7.01j Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -183,19 +215,19 @@ Package hyperref Info: Plain pages OFF on input line 4172.
 Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count289
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\c@Hy@tempcnt=\count298
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen155
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count290
+\Fld@menulength=\count299
 \Field@Width=\dimen156
 \Fld@charsize=\dimen157
 Package hyperref Info: Hyper figures OFF on input line 6042.
@@ -205,246 +237,244 @@ Package hyperref Info: backreferencing OFF on input line 6057.
 Package hyperref Info: Link coloring OFF on input line 6062.
 Package hyperref Info: Link coloring with OCG OFF on input line 6067.
 Package hyperref Info: PDF/A mode OFF on input line 6072.
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count291
-\c@Item=\count292
-\c@Hfootnote=\count293
+\Hy@abspage=\count300
+\c@Item=\count301
+\c@Hfootnote=\count302
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2024-07-10 v7.01j Hyperref driver for pdfTeX
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count294
-\c@bookmark@seq@number=\count295
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+\Fld@listcount=\count303
+\c@bookmark@seq@number=\count304
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip55
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+\Hy@SectionHShift=\skip58
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2023/10/27 v2.16 Sectioning titles
-\ttl@box=\box55
-\beforetitleunit=\skip56
-\aftertitleunit=\skip57
+\ttl@box=\box57
+\beforetitleunit=\skip59
+\aftertitleunit=\skip60
 \ttl@plus=\dimen158
 \ttl@minus=\dimen159
-\ttl@toksa=\toks25
+\ttl@toksa=\toks28
 \titlewidth=\dimen160
 \titlewidthlast=\dimen161
 \titlewidthfirst=\dimen162
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count296
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+\lrq@indent=\count305
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
-Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-)
-\c@tabx@nest=\count297
-\c@listtotal=\count298
-\c@listcount=\count299
-\c@liststart=\count300
-\c@liststop=\count301
-\c@citecount=\count302
-\c@citetotal=\count303
-\c@multicitecount=\count304
-\c@multicitetotal=\count305
-\c@instcount=\count306
-\c@maxnames=\count307
-\c@minnames=\count308
-\c@maxitems=\count309
-\c@minitems=\count310
-\c@citecounter=\count311
-\c@maxcitecounter=\count312
-\c@savedcitecounter=\count313
-\c@uniquelist=\count314
-\c@uniquename=\count315
-\c@refsection=\count316
-\c@refsegment=\count317
-\c@maxextratitle=\count318
-\c@maxextratitleyear=\count319
-\c@maxextraname=\count320
-\c@maxextradate=\count321
-\c@maxextraalpha=\count322
-\c@abbrvpenalty=\count323
-\c@highnamepenalty=\count324
-\c@lownamepenalty=\count325
-\c@maxparens=\count326
-\c@parenlevel=\count327
-\blx@tempcnta=\count328
-\blx@tempcntb=\count329
-\blx@tempcntc=\count330
-\c@blx@maxsection=\count331
-\blx@maxsegment@0=\count332
-\blx@notetype=\count333
-\blx@parenlevel@text=\count334
-\blx@parenlevel@foot=\count335
-\blx@sectionciteorder@0=\count336
-\blx@sectionciteorderinternal@0=\count337
-\blx@entrysetcounter=\count338
-\blx@biblioinstance=\count339
-\labelnumberwidth=\skip58
-\labelalphawidth=\skip59
-\biblabelsep=\skip60
-\bibitemsep=\skip61
-\bibnamesep=\skip62
-\bibinitsep=\skip63
-\bibparsep=\skip64
-\bibhang=\skip65
+))
+\c@tabx@nest=\count306
+\c@listtotal=\count307
+\c@listcount=\count308
+\c@liststart=\count309
+\c@liststop=\count310
+\c@citecount=\count311
+\c@citetotal=\count312
+\c@multicitecount=\count313
+\c@multicitetotal=\count314
+\c@instcount=\count315
+\c@maxnames=\count316
+\c@minnames=\count317
+\c@maxitems=\count318
+\c@minitems=\count319
+\c@citecounter=\count320
+\c@maxcitecounter=\count321
+\c@savedcitecounter=\count322
+\c@uniquelist=\count323
+\c@uniquename=\count324
+\c@refsection=\count325
+\c@refsegment=\count326
+\c@maxextratitle=\count327
+\c@maxextratitleyear=\count328
+\c@maxextraname=\count329
+\c@maxextradate=\count330
+\c@maxextraalpha=\count331
+\c@abbrvpenalty=\count332
+\c@highnamepenalty=\count333
+\c@lownamepenalty=\count334
+\c@maxparens=\count335
+\c@parenlevel=\count336
+\blx@tempcnta=\count337
+\blx@tempcntb=\count338
+\blx@tempcntc=\count339
+\c@blx@maxsection=\count340
+\blx@maxsegment@0=\count341
+\blx@notetype=\count342
+\blx@parenlevel@text=\count343
+\blx@parenlevel@foot=\count344
+\blx@sectionciteorder@0=\count345
+\blx@sectionciteorderinternal@0=\count346
+\blx@entrysetcounter=\count347
+\blx@biblioinstance=\count348
+\labelnumberwidth=\skip61
+\labelalphawidth=\skip62
+\biblabelsep=\skip63
+\bibitemsep=\skip64
+\bibnamesep=\skip65
+\bibinitsep=\skip66
+\bibparsep=\skip67
+\bibhang=\skip68
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language79
-\c@mincomprange=\count340
-\c@maxcomprange=\count341
-\c@mincompwidth=\count342
+\c@mincomprange=\count349
+\c@maxcomprange=\count350
+\c@mincompwidth=\count351
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
 File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'numeric.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count343
-\c@savedafterword=\count344
-\c@annotator=\count345
-\c@savedannotator=\count346
-\c@author=\count347
-\c@savedauthor=\count348
-\c@bookauthor=\count349
-\c@savedbookauthor=\count350
-\c@commentator=\count351
-\c@savedcommentator=\count352
-\c@editor=\count353
-\c@savededitor=\count354
-\c@editora=\count355
-\c@savededitora=\count356
-\c@editorb=\count357
-\c@savededitorb=\count358
-\c@editorc=\count359
-\c@savededitorc=\count360
-\c@foreword=\count361
-\c@savedforeword=\count362
-\c@holder=\count363
-\c@savedholder=\count364
-\c@introduction=\count365
-\c@savedintroduction=\count366
-\c@namea=\count367
-\c@savednamea=\count368
-\c@nameb=\count369
-\c@savednameb=\count370
-\c@namec=\count371
-\c@savednamec=\count372
-\c@translator=\count373
-\c@savedtranslator=\count374
-\c@shortauthor=\count375
-\c@savedshortauthor=\count376
-\c@shorteditor=\count377
-\c@savedshorteditor=\count378
-\c@labelname=\count379
-\c@savedlabelname=\count380
-\c@institution=\count381
-\c@savedinstitution=\count382
-\c@lista=\count383
-\c@savedlista=\count384
-\c@listb=\count385
-\c@savedlistb=\count386
-\c@listc=\count387
-\c@savedlistc=\count388
-\c@listd=\count389
-\c@savedlistd=\count390
-\c@liste=\count391
-\c@savedliste=\count392
-\c@listf=\count393
-\c@savedlistf=\count394
-\c@location=\count395
-\c@savedlocation=\count396
-\c@organization=\count397
-\c@savedorganization=\count398
-\c@origlocation=\count399
-\c@savedoriglocation=\count400
-\c@origpublisher=\count401
-\c@savedorigpublisher=\count402
-\c@publisher=\count403
-\c@savedpublisher=\count404
-\c@language=\count405
-\c@savedlanguage=\count406
-\c@origlanguage=\count407
-\c@savedoriglanguage=\count408
-\c@pageref=\count409
-\c@savedpageref=\count410
-\shorthandwidth=\skip66
-\shortjournalwidth=\skip67
-\shortserieswidth=\skip68
-\shorttitlewidth=\skip69
-\shortauthorwidth=\skip70
-\shorteditorwidth=\skip71
-\locallabelnumberwidth=\skip72
-\locallabelalphawidth=\skip73
-\localshorthandwidth=\skip74
-\localshortjournalwidth=\skip75
-\localshortserieswidth=\skip76
-\localshorttitlewidth=\skip77
-\localshortauthorwidth=\skip78
-\localshorteditorwidth=\skip79
+\c@afterword=\count352
+\c@savedafterword=\count353
+\c@annotator=\count354
+\c@savedannotator=\count355
+\c@author=\count356
+\c@savedauthor=\count357
+\c@bookauthor=\count358
+\c@savedbookauthor=\count359
+\c@commentator=\count360
+\c@savedcommentator=\count361
+\c@editor=\count362
+\c@savededitor=\count363
+\c@editora=\count364
+\c@savededitora=\count365
+\c@editorb=\count366
+\c@savededitorb=\count367
+\c@editorc=\count368
+\c@savededitorc=\count369
+\c@foreword=\count370
+\c@savedforeword=\count371
+\c@holder=\count372
+\c@savedholder=\count373
+\c@introduction=\count374
+\c@savedintroduction=\count375
+\c@namea=\count376
+\c@savednamea=\count377
+\c@nameb=\count378
+\c@savednameb=\count379
+\c@namec=\count380
+\c@savednamec=\count381
+\c@translator=\count382
+\c@savedtranslator=\count383
+\c@shortauthor=\count384
+\c@savedshortauthor=\count385
+\c@shorteditor=\count386
+\c@savedshorteditor=\count387
+\c@labelname=\count388
+\c@savedlabelname=\count389
+\c@institution=\count390
+\c@savedinstitution=\count391
+\c@lista=\count392
+\c@savedlista=\count393
+\c@listb=\count394
+\c@savedlistb=\count395
+\c@listc=\count396
+\c@savedlistc=\count397
+\c@listd=\count398
+\c@savedlistd=\count399
+\c@liste=\count400
+\c@savedliste=\count401
+\c@listf=\count402
+\c@savedlistf=\count403
+\c@location=\count404
+\c@savedlocation=\count405
+\c@organization=\count406
+\c@savedorganization=\count407
+\c@origlocation=\count408
+\c@savedoriglocation=\count409
+\c@origpublisher=\count410
+\c@savedorigpublisher=\count411
+\c@publisher=\count412
+\c@savedpublisher=\count413
+\c@language=\count414
+\c@savedlanguage=\count415
+\c@origlanguage=\count416
+\c@savedoriglanguage=\count417
+\c@pageref=\count418
+\c@savedpageref=\count419
+\shorthandwidth=\skip69
+\shortjournalwidth=\skip70
+\shortserieswidth=\skip71
+\shorttitlewidth=\skip72
+\shortauthorwidth=\skip73
+\shorteditorwidth=\skip74
+\locallabelnumberwidth=\skip75
+\locallabelalphawidth=\skip76
+\localshorthandwidth=\skip77
+\localshortjournalwidth=\skip78
+\localshortserieswidth=\skip79
+\localshorttitlewidth=\skip80
+\localshortauthorwidth=\skip81
+\localshorteditorwidth=\skip82
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
 File: blx-compat.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
-\c@textcitecount=\count411
-\c@textcitetotal=\count412
-\c@textcitemaxnames=\count413
-\c@biburlbigbreakpenalty=\count414
-\c@biburlbreakpenalty=\count415
-\c@biburlnumpenalty=\count416
-\c@biburlucpenalty=\count417
-\c@biburllcpenalty=\count418
+\c@textcitecount=\count420
+\c@textcitetotal=\count421
+\c@textcitemaxnames=\count422
+\c@biburlbigbreakpenalty=\count423
+\c@biburlbreakpenalty=\count424
+\c@biburlnumpenalty=\count425
+\c@biburlucpenalty=\count426
+\c@biburllcpenalty=\count427
 \biburlbigskip=\muskip19
 \biburlnumskip=\muskip20
 \biburlucskip=\muskip21
 \biburllcskip=\muskip22
-\c@smartand=\count419
+\c@smartand=\count428
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
 File: numeric.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
 File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count420
-\c@bbx:relatedtotal=\count421
+\c@bbx:relatedcount=\count429
+\c@bbx:relatedtotal=\count430
 ))
 Package biblatex Info: Trying to load citation style 'ieee'...
 Package biblatex Info: ... file 'ieee.cbx' found.
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.cbx
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.cbx
 File: ieee.cbx 2024/08/14 v1.3g biblatex citation style
 Package biblatex Info: Trying to load citation style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.cbx' found.
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric-comp.cbx
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric-comp.cbx
 File: numeric-comp.cbx 2024/03/21 v3.20 biblatex citation style (PK/MW)
-\c@cbx@tempcnta=\count422
-\c@cbx@tempcntb=\count423
-\c@cbx@tempcntc=\count424
-\c@cbx@tempcntd=\count425
+\c@cbx@tempcnta=\count431
+\c@cbx@tempcntb=\count432
+\c@cbx@tempcntc=\count433
+\c@cbx@tempcntd=\count434
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -463,52 +493,52 @@ Package biblatex Info: Redefining '\cites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2024-08-16 L3 programming layer (loader) 
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-08-30 L3 programming layer (loader) 
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count426
-\l__pdf_internal_box=\box56
+\l__color_backend_stack_int=\count435
+\l__pdf_internal_box=\box58
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2024-08-16 L3 programming layer (loader) 
+(biblatex)             2024-08-30 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
 Package: xparse 2024-08-16 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
-)) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+)) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
 \col@sep=\dimen163
-\ar@mcellbox=\box57
+\ar@mcellbox=\box59
 \extrarowheight=\dimen164
-\NC@list=\toks26
-\extratabsurround=\skip80
-\backup@length=\skip81
-\ar@cellbox=\box58
+\NC@list=\toks29
+\extratabsurround=\skip83
+\backup@length=\skip84
+\ar@cellbox=\box60
 )
 \TX@col@width=\dimen165
 \TX@old@table=\dimen166
 \TX@old@col=\dimen167
 \TX@target=\dimen168
 \TX@delta=\dimen169
-\TX@cols=\count427
-\TX@ftn=\toks27
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+\TX@cols=\count436
+\TX@ftn=\toks30
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
 Package xcolor Info: Model `RGB' extended on input line 1366.
@@ -518,83 +548,90 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2024/07/06 v1.0i Color table columns (DPC)
-\everycr=\toks28
-\minrowclearance=\skip82
-\rownum=\count428
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/forloop\forloop.sty
+\everycr=\toks31
+\minrowclearance=\skip85
+\rownum=\count437
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/forloop\forloop.sty
 Package: forloop 2023/05/03 v3.0 For Loops for LaTeX
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2024-04-26 v4.20 Multi-page Table package (DPC)
-\LTleft=\skip83
-\LTright=\skip84
-\LTpre=\skip85
-\LTpost=\skip86
-\LTchunksize=\count429
+\LTleft=\skip86
+\LTright=\skip87
+\LTpre=\skip88
+\LTpost=\skip89
+\LTchunksize=\count438
 \LTcapwidth=\dimen170
-\LT@head=\box59
-\LT@firsthead=\box60
-\LT@foot=\box61
-\LT@lastfoot=\box62
-\LT@gbox=\box63
-\LT@cols=\count430
-\LT@rows=\count431
-\c@LT@tables=\count432
-\c@LT@chunks=\count433
-\LT@p@ftn=\toks29
+\LT@head=\box61
+\LT@firsthead=\box62
+\LT@foot=\box63
+\LT@lastfoot=\box64
+\LT@gbox=\box65
+\LT@cols=\count439
+\LT@rows=\count440
+\c@LT@tables=\count441
+\c@LT@chunks=\count442
+\LT@p@ftn=\toks32
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
 )
-\c@loopcntr=\count434
-\@quotelevel=\count435
-\@quotereset=\count436
- (main.aux)
+\c@loopcntr=\count443
+\@quotelevel=\count444
+\@quotereset=\count445
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 55.
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count437
+\scratchcounter=\count446
 \scratchdimen=\dimen171
-\scratchbox=\box64
-\nofMPsegments=\count438
-\nofMParguments=\count439
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count440
+\scratchbox=\box66
+\nofMPsegments=\count447
+\nofMParguments=\count448
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count449
 \MPscratchDim=\dimen172
-\MPnumerator=\count441
-\makeMPintoPDFobject=\count442
-\everyMPtoPDFconversion=\toks31
-) (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+\MPnumerator=\count450
+\makeMPintoPDFobject=\count451
+\everyMPtoPDFconversion=\toks34
+) (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 32.
+Package hyperref Info: Link coloring OFF on input line 55.
  (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
- (C:\Users\macer\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
 File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -605,649 +642,640 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 32.
-Package biblatex Info: Reference segment=0 on input line 32.
+Package biblatex Info: Reference section=0 on input line 55.
+Package biblatex Info: Reference segment=0 on input line 55.
 
 
 [1
 
-{C:/Users/macer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (sections/introduction.tex
+{C:/Users/Gian/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Gian/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] (sections/abstract.tex)
 
-[2]) (sections/background.tex
-Overfull \hbox (6.19508pt too wide) in paragraph at lines 11--12
-\OT1/cmr/m/n/10 For ex-am-ple, greedy al-go-rithms, lo-cal search, and evo-lu-tion-ary heuris-
+[2] (main.toc)
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+
+
+[3] (sections/introduction.tex
+
+[4]) (sections/background.tex
+Overfull \hbox (5.35649pt too wide) in paragraph at lines 11--12
+\OT1/ptm/m/n/10 lems that should find ac-cept-able so-lu-tions within rea-son-able time. Problem-
  []
 
 
 
-[3]
-Overfull \hbox (4.24553pt too wide) in paragraph at lines 23--24
-[]\OT1/cmr/m/it/10 Multi-Swarm Op-ti-miza-tion (MSO) \OT1/cmr/m/n/10 is an ad-vanced ex-ten-sion of swarm
+[5]) (sections/related_works.tex
+
+[6]
+
+[7]) (sections/problem_statement.tex) (sections/objectives.tex
+
+[8]
+Overfull \hbox (5.19681pt too wide) in paragraph at lines 14--15
+[]\OT1/ptm/m/n/10 To per-form a state-of-the-art anal-y-sis by com-par-ing with other ex-ist-ing ap-proaches
  []
 
-) (sections/related_works.tex
+) (sections/scope_and_limitation.tex
+Overfull \hbox (4.55637pt too wide) in paragraph at lines 6--7
+[]\OT1/ptm/m/n/10 Another ma-jor as-pect is its de-ploy-ment as a web-based ap-pli-ca-tion in which the MSPSO-
+ []
 
-[4]) (sections/problem_statement.tex
+) (sections/significance.tex
 
-[5]) (sections/objectives.tex) (sections/scope_and_limitation.tex) (sections/significance.tex
-
-[6]) (sections/theoretical_framework.tex
-<framework.png, id=215, 1526.70375pt x 583.17876pt>
+[9]) (sections/theoretical_framework.tex
+<framework.png, id=264, 1526.70375pt x 583.17876pt>
 File: framework.png Graphic file (type png)
 <use framework.png>
 Package pdftex.def Info: framework.png  used on input line 6.
 (pdftex.def)             Requested size: 345.0pt x 131.77907pt.
+) (sections/methodology.tex
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-
-[7]
-
-[8 <./framework.png>]) (sections/methodology.tex
+[10 <./framework.png>]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 8.
 
-<example.png, id=237, 289.68225pt x 399.29175pt>
+<example.png, id=272, 289.68225pt x 399.29175pt>
 File: example.png Graphic file (type png)
 <use example.png>
 Package pdftex.def Info: example.png  used on input line 9.
 (pdftex.def)             Requested size: 345.0pt x 475.57738pt.
 
 
-[9]
+[11]
 
-[10 <./example.png>]
+[12 <./example.png>]
+Overfull \hbox (6.49644pt too wide) in paragraph at lines 25--26
+[]\OT1/ptm/m/n/10 The \OT1/ptm/b/n/10 Un-avail-abil-ity Con-straints \OT1/ptm/m/n/10 sec-tion spec-i-fies day-period com-bi-na-tions dur-ing which
+ []
 
-[11
+
+
+[13
 
 ]
-Overfull \hbox (16.59967pt too wide) in paragraph at lines 48--61
+
+[14]
+Overfull \hbox (14.32253pt too wide) in paragraph at lines 48--61
  [][] 
  []
 
 
 
-[12
+[15
 
 ]
 
-[13]) (sections/schedule.tex
-Overfull \hbox (11.52711pt too wide) in paragraph at lines 7--7
-[]|\OT1/cmr/bx/n/10 OBJECTIVES| 
+[16]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 143.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 146.
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+
+[17]
+<procedure1_random_assignment.png, id=325, 937.5025pt x 339.2675pt>
+File: procedure1_random_assignment.png Graphic file (type png)
+<use procedure1_random_assignment.png>
+Package pdftex.def Info: procedure1_random_assignment.png  used on input line 202.
+(pdftex.def)             Requested size: 345.0pt x 124.84885pt.
+
+
+[18 <./procedure1_random_assignment.png>]
+<procedure2_conflict_resolution.png, id=333, 1756.5625pt x 467.7475pt>
+File: procedure2_conflict_resolution.png Graphic file (type png)
+<use procedure2_conflict_resolution.png>
+Package pdftex.def Info: procedure2_conflict_resolution.png  used on input line 213.
+(pdftex.def)             Requested size: 345.0pt x 91.86345pt.
+<procedure3_swappable_slot.png, id=334, 1670.24pt x 467.7475pt>
+File: procedure3_swappable_slot.png Graphic file (type png)
+<use procedure3_swappable_slot.png>
+Package pdftex.def Info: procedure3_swappable_slot.png  used on input line 225.
+(pdftex.def)             Requested size: 345.0pt x 96.61685pt.
+
+
+[19 <./procedure2_conflict_resolution.png>]
+<procedure4_override_assignment.png, id=342, 1757.56625pt x 467.7475pt>
+File: procedure4_override_assignment.png Graphic file (type png)
+<use procedure4_override_assignment.png>
+Package pdftex.def Info: procedure4_override_assignment.png  used on input line 236.
+(pdftex.def)             Requested size: 345.0pt x 91.81348pt.
+<timetable_particles.png, id=343, 1308.89pt x 354.32375pt>
+File: timetable_particles.png Graphic file (type png)
+<use timetable_particles.png>
+Package pdftex.def Info: timetable_particles.png  used on input line 247.
+(pdftex.def)             Requested size: 345.0pt x 93.39253pt.
+
+
+[20 <./procedure3_swappable_slot.png> <./procedure4_override_assignment.png>]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 259.
+ (C:\Users\Gian\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Overfull \hbox (7.17674pt too wide) in paragraph at lines 259--260
+\OT1/ptm/m/n/10 as-sign-ment de-scribes a so-lu-tion as \OT1/ptm/m/it/10 day\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 pe-riod\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 room[]id\OT1/ptm/m/n/10 , and \OT1/ptm/m/it/10 course[]id\OT1/ptm/m/n/10 respectively.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-[]|\OT1/cmr/bx/n/10 TARGET
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
+[]|\OT1/ptm/m/n/10 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-\OT1/cmr/bx/n/10 AC-TIV-I-
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
+\OT1/ptm/m/n/10 (Based on
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-[]|\OT1/cmr/bx/n/10 TARGET
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
+[]|\OT1/ptm/m/n/10 Same as
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-\OT1/cmr/bx/n/10 AC-COM-
+
+[21 <./timetable_particles.png>]
+LaTeX Font Info:    Font shape `OT1/pcr/m/it' in size <10> not available
+(Font)              Font shape `OT1/pcr/m/sl' tried instead on input line 284.
+
+
+[22]
+Overfull \hbox (3.29672pt too wide) in paragraph at lines 298--299
+[]\OT1/pcr/m/n/10 RCLOUD \OT1/ptm/m/n/10 de-fines the ra-dius for quantum-inspired reini-tial-iza-tion around
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-\OT1/cmr/bx/n/10 PLISH-
+
+[23]
+
+[24]
+Overfull \hbox (22.55525pt too wide) detected at line 362
+[] \OT1/cmr/m/n/10 = []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-\OT1/cmr/bx/n/10 MENTS
+
+[25]
+
+[26]
+
+[27]
+
+[28]
+
+[29]
+
+[30]
+Overfull \hbox (5.21585pt too wide) in paragraph at lines 535--536
+[]\OT1/ptm/m/n/10 The ef-fec-tive-ness of the MSPSO al-go-rithm is eval-u-ated us-ing the datasets from ITC2007,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-\OT1/cmr/m/n/10 (quan-tify, if
+Overfull \hbox (55.51715pt too wide) in paragraph at lines 539--540
+\OT1/ptm/m/n/10 the out-put file (\OT1/pcr/m/n/10 name[]of[]output[]comp.out\OT1/ptm/m/n/10 ) pro-duced by the MSPSO al-go-rithm. It checks for vi-
+ []
+
+<validator.png, id=411, 322.20375pt x 275.52937pt>
+File: validator.png Graphic file (type png)
+<use validator.png>
+Package pdftex.def Info: validator.png  used on input line 543.
+(pdftex.def)             Requested size: 345.0pt x 295.03633pt.
+
+
+[31]
+<deployment.png, id=417, 682.04813pt x 320.69812pt>
+File: deployment.png Graphic file (type png)
+<use deployment.png>
+Package pdftex.def Info: deployment.png  used on input line 560.
+(pdftex.def)             Requested size: 345.0pt x 162.21796pt.
+
+
+[32 <./validator.png>]) (sections/initial_results.tex
+
+[33 <./deployment.png>]
+Overfull \hbox (0.9168pt too wide) in paragraph at lines 31--32
+\OT1/ptm/m/n/10 Bee Colony (ABC) [[]38[]], Im-proved Ar-ti-fi-cial Bee Colony (IABC) [[]8[]], Ant Colony
  []
 
 
-Overfull \hbox (1.55191pt too wide) in paragraph at lines 9--9
-[]|\OT1/cmr/m/n/10 1| 
+
+[34]
+
+[35]
+
+[36]) (sections/schedule.tex
+Overfull \hbox (1.25188pt too wide) in paragraph at lines 6--6
+[]|\OT1/ptm/b/n/10 OBJECTIVES| 
  []
 
 
-Overfull \hbox (1.55191pt too wide) in paragraph at lines 9--9
-[]|\OT1/cmr/m/n/10 2| 
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/ptm/b/n/10 COM-PLISH-
  []
 
 
-Overfull \hbox (1.55191pt too wide) in paragraph at lines 9--9
-[]|\OT1/cmr/m/n/10 3| 
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/ptm/b/n/10 MENTS
  []
 
 
-Overfull \hbox (1.55191pt too wide) in paragraph at lines 9--9
-[]|\OT1/cmr/m/n/10 4| 
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/ptm/b/n/10 (Quan-tify, if
  []
 
 
-Overfull \hbox (1.55191pt too wide) in paragraph at lines 9--9
-[]|\OT1/cmr/m/n/10 5| 
+Overfull \hbox (3.09853pt too wide) in paragraph at lines 8--8
+[]|\OT1/ptm/m/n/10 10| 
  []
 
 
-Overfull \hbox (1.55191pt too wide) in paragraph at lines 9--9
-[]|\OT1/cmr/m/n/10 6| 
+Overfull \hbox (3.09853pt too wide) in paragraph at lines 8--8
+[]|\OT1/ptm/m/n/10 11| 
  []
 
 
-Overfull \hbox (1.55191pt too wide) in paragraph at lines 9--9
-[]|\OT1/cmr/m/n/10 7| 
+Overfull \hbox (3.09853pt too wide) in paragraph at lines 8--9
+[]|\OT1/ptm/m/n/10 12| 
  []
 
 
-Overfull \hbox (1.55191pt too wide) in paragraph at lines 9--9
-[]|\OT1/cmr/m/n/10 8| 
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\OT1/ptm/m/n/10 Solve UCTP
  []
 
 
-Overfull \hbox (1.55191pt too wide) in paragraph at lines 9--9
-[]|\OT1/cmr/m/n/10 9| 
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]|\OT1/ptm/m/n/10 Research and
  []
 
 
-Overfull \hbox (6.55193pt too wide) in paragraph at lines 9--9
-[]|\OT1/cmr/m/n/10 10| 
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\OT1/ptm/m/n/10 un-der-stand
  []
 
 
-Overfull \hbox (6.55193pt too wide) in paragraph at lines 9--9
-[]|\OT1/cmr/m/n/10 11| 
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\OT1/ptm/m/n/10 the UCTP
  []
 
 
-Overfull \hbox (6.55193pt too wide) in paragraph at lines 9--10
-[]|\OT1/cmr/m/n/10 12| 
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\OT1/ptm/m/n/10 do-main and
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 12--12
-[]|\OT1/cmr/m/n/10 To ex-am-
+[]|\OT1/ptm/m/n/10 Develop an
  []
 
 
-Underfull \hbox (badness 3849) in paragraph at lines 12--12
-\OT1/cmr/m/n/10 ine how the
+Underfull \hbox (badness 1931) in paragraph at lines 12--12
+\OT1/ptm/m/n/10 ini-tial so-lu-tion
  []
 
 
-Underfull \hbox (badness 2503) in paragraph at lines 12--12
-\OT1/cmr/m/n/10 it solves the
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+\OT1/ptm/m/n/10 model us-ing
  []
 
 
-Underfull \hbox (badness 5667) in paragraph at lines 13--16
-[]|\OT1/cmr/m/n/10 1. Gather
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+\OT1/ptm/m/n/10 MSPSO, test,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--16
-\OT1/cmr/m/n/10 rel-e-vant lit-
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+\OT1/ptm/m/n/10 and val-i-date
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--16
-\OT1/cmr/m/n/10 er-a-ture on
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+[]|\OT1/ptm/m/n/10 Model UCTP
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--16
-\OT1/cmr/m/n/10 MSPSO ap-
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\OT1/ptm/m/n/10 Integrate
  []
 
 
-Underfull \hbox (badness 2626) in paragraph at lines 13--16
-\OT1/cmr/m/n/10 2. An-a-lyze
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+\OT1/ptm/m/n/10 work with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--16
-\OT1/cmr/m/n/10 the per-for-
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+\OT1/ptm/m/n/10 UCTP con-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--16
-\OT1/cmr/m/n/10 mance of
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\OT1/ptm/m/n/10 ing UCTP
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--16
-\OT1/cmr/m/n/10 MSPSO on
+Underfull \hbox (badness 4060) in paragraph at lines 17--17
+\OT1/ptm/m/n/10 model aligned
  []
 
 
-Underfull \hbox (badness 1270) in paragraph at lines 13--16
-\OT1/cmr/m/n/10 3. Eval-u-ate
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+[]|\OT1/ptm/m/n/10 Compare
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--16
-\OT1/cmr/m/n/10 the ef-fec-
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+\OT1/ptm/m/n/10 MSPSO vs
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--16
-\OT1/cmr/m/n/10 tive-ness of
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]|\OT1/ptm/m/n/10 Conduct
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--16
-\OT1/cmr/m/n/10 MSPSO in
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\OT1/ptm/m/n/10 com-par-a-tive
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--16
-\OT1/cmr/m/n/10 with var-i-ous
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\OT1/ptm/m/n/10 anal-y-sis with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--19
-\OT1/cmr/m/n/10 UCTP with
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\OT1/ptm/m/n/10 other swarm
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--19
-\OT1/cmr/m/n/10 cru-cial char-
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\OT1/ptm/m/n/10 ap-proaches,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--19
-\OT1/cmr/m/n/10 room avail-
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+[]|\OT1/ptm/m/n/10 Publish com-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--19
-\OT1/cmr/m/n/10 pre-req-ui-sites,
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+\OT1/ptm/m/n/10 mance re-sults
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--19
-\OT1/cmr/m/n/10 and fac-ulty
- []
-
-
-Underfull \hbox (badness 3260) in paragraph at lines 20--23
-[]|\OT1/cmr/m/n/10 1. Iden-tify
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--23
-\OT1/cmr/m/n/10 and de-fine
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--23
-\OT1/cmr/m/n/10 crit-i-cal con-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--23
-\OT1/cmr/m/n/10 straints in
- []
-
-
-Underfull \hbox (badness 2698) in paragraph at lines 20--23
-\OT1/cmr/m/n/10 2. De-velop
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--23
-\OT1/cmr/m/n/10 and model
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--23
-\OT1/cmr/m/n/10 UCTP us-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--23
-\OT1/cmr/m/n/10 ing MSPSO
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--23
-\OT1/cmr/m/n/10 model on
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+[]|\OT1/ptm/m/n/10 Deploy
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 26--26
-\OT1/cmr/m/n/10 state-of-the-
+[]|\OT1/ptm/m/n/10 Deploy an
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 26--26
-\OT1/cmr/m/n/10 art anal-y-sis
+\OT1/ptm/m/n/10 in-ter-ac-tive
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 26--26
-\OT1/cmr/m/n/10 the MSPSO
+\OT1/ptm/m/n/10 MSPSO web
  []
 
 
-Underfull \hbox (badness 4492) in paragraph at lines 26--26
-\OT1/cmr/m/n/10 cur-rent tech-
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+\OT1/ptm/m/n/10 app us-ing
  []
 
 
-Underfull \hbox (badness 6141) in paragraph at lines 27--29
-[]|\OT1/cmr/m/n/10 1. Bench-
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]|\OT1/ptm/m/n/10 Functional
  []
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 27--29
-\OT1/cmr/m/n/10 against other
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+\OT1/ptm/m/n/10 de-ploy-ment
  []
 
 
-Underfull \hbox (badness 1917) in paragraph at lines 27--29
-\OT1/cmr/m/n/10 UCTP meth-
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+\OT1/ptm/m/n/10 of MSPSO
  []
 
 
-Underfull \hbox (badness 2951) in paragraph at lines 27--29
-\OT1/cmr/m/n/10 ods like GA
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+\OT1/ptm/m/n/10 for end-user
  []
 
 
-Underfull \hbox (badness 1616) in paragraph at lines 27--29
-\OT1/cmr/m/n/10 2. Con-duct
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+\OT1/ptm/m/n/10 test-ing and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--29
-\OT1/cmr/m/n/10 per-for-mance
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--29
-\OT1/cmr/m/n/10 eval-u-a-tions
- []
-
-
-Overfull \hbox (69.06958pt too wide) in alignment at lines 5--31
+Overfull \hbox (110.51001pt too wide) in alignment at lines 4--30
  [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
  []
 
-[14]
-Overfull \hbox (11.52711pt too wide) in paragraph at lines 35--35
-[]|\OT1/cmr/bx/n/10 OBJECTIVES| 
+
+Overfull \hbox (1.25188pt too wide) in paragraph at lines 34--34
+[]|\OT1/ptm/b/n/10 OBJECTIVES| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
-[]|\OT1/cmr/bx/n/10 TARGET
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+\OT1/ptm/b/n/10 COM-PLISH-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
-\OT1/cmr/bx/n/10 AC-TIV-I-
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+\OT1/ptm/b/n/10 MENTS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
-[]|\OT1/cmr/bx/n/10 TARGET
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+\OT1/ptm/b/n/10 (Quan-tify, if
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
-\OT1/cmr/bx/n/10 AC-COM-
+Overfull \hbox (3.09853pt too wide) in paragraph at lines 36--36
+[]|\OT1/ptm/m/n/10 10| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
-\OT1/cmr/bx/n/10 PLISH-
+Overfull \hbox (3.09853pt too wide) in paragraph at lines 36--36
+[]|\OT1/ptm/m/n/10 11| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
-\OT1/cmr/bx/n/10 MENTS
+Overfull \hbox (3.09853pt too wide) in paragraph at lines 36--37
+[]|\OT1/ptm/m/n/10 12| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
-\OT1/cmr/m/n/10 (quan-tify, if
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]|\OT1/ptm/m/n/10 Compare
  []
 
 
-Overfull \hbox (1.55191pt too wide) in paragraph at lines 37--37
-[]|\OT1/cmr/m/n/10 1| 
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\OT1/ptm/m/n/10 MSPSO vs
  []
 
 
-Overfull \hbox (1.55191pt too wide) in paragraph at lines 37--37
-[]|\OT1/cmr/m/n/10 2| 
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]|\OT1/ptm/m/n/10 Detailed
  []
 
 
-Overfull \hbox (1.55191pt too wide) in paragraph at lines 37--37
-[]|\OT1/cmr/m/n/10 3| 
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\OT1/ptm/m/n/10 bench-mark-ing
  []
 
 
-Overfull \hbox (1.55191pt too wide) in paragraph at lines 37--37
-[]|\OT1/cmr/m/n/10 4| 
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\OT1/ptm/m/n/10 of MSPSO
  []
 
 
-Overfull \hbox (1.55191pt too wide) in paragraph at lines 37--37
-[]|\OT1/cmr/m/n/10 5| 
- []
-
-
-Overfull \hbox (1.55191pt too wide) in paragraph at lines 37--37
-[]|\OT1/cmr/m/n/10 6| 
- []
-
-
-Overfull \hbox (1.55191pt too wide) in paragraph at lines 37--37
-[]|\OT1/cmr/m/n/10 7| 
- []
-
-
-Overfull \hbox (1.55191pt too wide) in paragraph at lines 37--37
-[]|\OT1/cmr/m/n/10 8| 
- []
-
-
-Overfull \hbox (1.55191pt too wide) in paragraph at lines 37--37
-[]|\OT1/cmr/m/n/10 9| 
- []
-
-
-Overfull \hbox (6.55193pt too wide) in paragraph at lines 37--37
-[]|\OT1/cmr/m/n/10 10| 
- []
-
-
-Overfull \hbox (6.55193pt too wide) in paragraph at lines 37--37
-[]|\OT1/cmr/m/n/10 11| 
- []
-
-
-Overfull \hbox (6.55193pt too wide) in paragraph at lines 37--38
-[]|\OT1/cmr/m/n/10 12| 
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\OT1/ptm/m/n/10 against al-ter-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\OT1/cmr/m/n/10 state-of-the-
+[]|\OT1/ptm/m/n/10 Publish fi-nal
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\OT1/cmr/m/n/10 art anal-y-sis
+\OT1/ptm/m/n/10 re-sults and
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\OT1/cmr/m/n/10 the MSPSO
+\OT1/ptm/m/n/10 im-prove-ments
  []
 
 
-Underfull \hbox (badness 4492) in paragraph at lines 40--40
-\OT1/cmr/m/n/10 cur-rent tech-
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]|\OT1/ptm/m/n/10 Deploy
  []
 
 
-Underfull \hbox (badness 1616) in paragraph at lines 41--43
-[]|\OT1/cmr/m/n/10 1. Con-duct
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+\OT1/ptm/m/n/10 MSPSO-based
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--43
-\OT1/cmr/m/n/10 a de-tailed
+Underfull \hbox (badness 1264) in paragraph at lines 44--44
+\OT1/ptm/m/n/10 ap-pli-ca-tion for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--43
-\OT1/cmr/m/n/10 anal-y-sis and
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]|\OT1/ptm/m/n/10 Final app
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--43
-\OT1/cmr/m/n/10 com-par-i-son
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+\OT1/ptm/m/n/10 de-ploy-ment
  []
 
 
-Underfull \hbox (badness 3895) in paragraph at lines 41--43
-\OT1/cmr/m/n/10 with ex-ist-ing
+Underfull \hbox (badness 5970) in paragraph at lines 45--45
+\OT1/ptm/m/n/10 with ex-tended
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--43
-\OT1/cmr/m/n/10 UCTP tech-
- []
-
-
-Underfull \hbox (badness 3861) in paragraph at lines 41--43
-\OT1/cmr/m/n/10 2. Pub-lish
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--43
-\OT1/cmr/m/n/10 re-sults and
- []
-
-
-Underfull \hbox (badness 5954) in paragraph at lines 41--43
-\OT1/cmr/m/n/10 make rec-om-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--43
-\OT1/cmr/m/n/10 men-da-tions
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--43
-\OT1/cmr/m/n/10 for im-prove-
- []
-
-
-Overfull \hbox (69.06958pt too wide) in alignment at lines 33--45
+Overfull \hbox (110.51001pt too wide) in alignment at lines 32--48
  [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
  []
 
-[15])
-Overfull \hbox (22.17616pt too wide) in paragraph at lines 59--59
-[]\OT1/cmr/m/n/10 E. Burke et al. ``A Branch-and-Cut Pro-ce-dure for the Udine Course Timetabling
+[37]
+
+[38])
+Overfull \hbox (0.72041pt too wide) in paragraph at lines 95--95
+[]\OT1/ptm/m/n/10 ITC-2007 Or-ga-niz-ers. ``Cur-ricu-lum Based Course Timetabling Prob-lem De-scrip-
+ []
+
+
+Overfull \hbox (27.50026pt too wide) in paragraph at lines 95--95
+[]\OT1/ptm/m/n/10 Asaju La'aro Bo-laji et al. ``An Im-proved Ar-ti-fi-cial Bee Colony for Course Timetabling''.
  []
 
 
 
-[16]
-Overfull \hbox (10.05115pt too wide) in paragraph at lines 59--59
-[]\OT1/cmr/m/n/10 M. Geiger. ``Ap-ply-ing the Thresh-old Ac-cept-ing Meta-heuris-tic to Curriculum-
+[39]
+Overfull \hbox (2.90703pt too wide) in paragraph at lines 95--95
+\OT1/ptm/m/n/10 Chain Neigh-bour-hood Struc-ture for Curriculum-Based Course Timetabling Prob-
  []
 
 
-Overfull \hbox (2.72333pt too wide) in paragraph at lines 59--59
-[]\OT1/cmr/m/n/10 M. Geiger. ``Multi-Criteria Curriculum-Based Course Timetabling: A Com-
+Overfull \hbox (15.24167pt too wide) in paragraph at lines 95--95
+[]\OT1/ptm/m/n/10 Z. L[]u, J. Hao, and F. Glover. ``Neigh-bor-hood Anal-y-sis: A Case Study on Curriculum-
  []
 
 
-Overfull \hbox (36.00076pt too wide) in paragraph at lines 59--59
-\OT1/cmr/m/n/10 Kempe Chain Neigh-bour-hood Struc-ture for Curriculum-Based Course Timetabling
+Overfull \hbox (12.39268pt too wide) in paragraph at lines 95--95
+[]\OT1/ptm/m/n/10 H. Al-geth-ami and W. Lae-san-klang. ``A Math-e-mat-i-cal Model for Course Timetabling
  []
 
 
-Overfull \hbox (20.50734pt too wide) in paragraph at lines 59--59
-[]\OT1/cmr/m/n/10 Ruey-Maw Chen and Hsiao-Fang Shih. ``Solv-ing Uni-ver-sity Course Timetabling
+Overfull \hbox (2.07338pt too wide) in paragraph at lines 95--95
+\OT1/ptm/m/n/10 Prob-lem With Faculty-Course As-sign-ment Con-straints''. In: \OT1/ptm/m/it/10 IEEE Ac-cess \OT1/ptm/m/n/10 9 (Aug.
  []
 
 
-Overfull \hbox (9.34668pt too wide) in paragraph at lines 59--59
-\OT1/cmr/m/n/10 Search''. In: \OT1/cmr/m/it/10 Al-go-rithms \OT1/cmr/m/n/10 6 (Apr. 2013), pp. 227{244. \OT1/cmr/m/sc/10 doi\OT1/cmr/m/n/10 : []$\OT1/cmtt/m/n/10 10 . 3390 / a6020227$[]\OT1/cmr/m/n/10 . 
+Overfull \hbox (5.67046pt too wide) in paragraph at lines 95--95
+\OT1/ptm/m/it/10 ceed-ings of IEEE In-ter-na-tional Con-fer-ence on Neu-ral Net-works \OT1/ptm/m/n/10 (1995), pp. 1942{
  []
 
 
-
-[17]
-Overfull \hbox (35.08032pt too wide) in paragraph at lines 59--59
-[]$\OT1/cmtt/m/n/10 https : / / www . sciencedirect . com / science / article / pii / S1568494618301017$[]\OT1/cmr/m/n/10 . 
- []
-
-
-Overfull \hbox (2.35168pt too wide) in paragraph at lines 59--59
-[]\OT1/cmr/m/n/10 T. Black-well and J. Branke. ``Mul-ti-swarms, ex-clu-sion, and anti-convergence
- []
-
-
-Overfull \hbox (2.51785pt too wide) in paragraph at lines 59--59
-\OT1/cmr/m/n/10 chine Schedul-ing with Shared and Multi-mode Re-sources''. In: \OT1/cmr/m/it/10 IEEE Trans-
- []
-
-
-Overfull \hbox (7.51826pt too wide) in paragraph at lines 59--59
-\OT1/cmr/m/it/10 ac-tions on Com-pu-ta-tional In-tel-li-gence and De-sign \OT1/cmr/m/n/10 9.4 (Dec. 2023), pp. 2473{
- []
-
-
-Overfull \hbox (4.92221pt too wide) in paragraph at lines 59--59
-\OT1/cmr/m/n/10 Op-ti-miza-tion with State-Based Learn-ing Strat-egy''. In: \OT1/cmr/m/it/10 Pro-cesses \OT1/cmr/m/n/10 12 (2024),
+Overfull \hbox (3.3544pt too wide) in paragraph at lines 95--95
+\OT1/ptm/m/n/10 Op-ti-miza-tion''. In: \OT1/ptm/m/it/10 Sen-sors \OT1/ptm/m/n/10 22.11 (2022), p. 4204. \OT1/ptm/m/sc/10 doi\OT1/ptm/m/n/10 : []$\OT1/pcr/m/n/10 10 . 3390 / s22114204$[]\OT1/ptm/m/n/10 .
  []
 
 
 
-[18] (main.aux)
+[40]
+
+[41]
+Overfull \hbox (0.88606pt too wide) in paragraph at lines 95--95
+\OT1/ptm/m/n/10 2025-01-03. \OT1/ptm/m/sc/10 url\OT1/ptm/m/n/10 : []$\OT1/pcr/m/n/10 https : / / www . researchgate . net / publication /
+ []
+
+
+Overfull \hbox (2.05719pt too wide) in paragraph at lines 95--95
+\OT1/ptm/m/n/10 Com-mu-nity De-tec-tion Prob-lem''. In: \OT1/ptm/m/it/10 Ap-plied Soft Com-put-ing \OT1/ptm/m/n/10 26 (2015), pp. 283{
+ []
+
+
+
+[42] (main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-08-16>
+L3 programming layer <2024-08-30>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1EDC63C298F9A0606AD60BDBAC18C018;3501.
+(rerunfilecheck)             Checksum: 284E2DF5E1656F5030AAC36D324B92F9;3502.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18428 strings out of 473898
- 328028 string characters out of 5726480
- 1953960 words of memory out of 5000000
- 40986 multiletter control sequences out of 15000+600000
- 564269 words of font info for 58 fonts, out of 8000000 for 9000
+ 19444 strings out of 473898
+ 345828 string characters out of 5726951
+ 1191057 words of memory out of 5000000
+ 41895 multiletter control sequences out of 15000+600000
+ 591082 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,14n,81p,2157b,1468s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (18 pages, 352665 bytes).
+ 69i,16n,81p,2140b,1469s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Gian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Gian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Gian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Gian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Gian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/Gian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Gian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Gian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Gian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Gian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/Gian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Gian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Gian/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/Gian/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrro8a.pfb><C:/Users/Gian/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Gian/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Gian/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (42 pages, 521822 bytes).
 PDF statistics:
- 414 PDF objects out of 1000 (max. 8388607)
- 89 named destinations out of 1000 (max. 500000)
- 171 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 624 PDF objects out of 1000 (max. 8388607)
+ 135 named destinations out of 1000 (max. 500000)
+ 238 words of extra memory for PDF output out of 10000 (max. 10000000)
 

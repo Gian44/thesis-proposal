@@ -1,0 +1,21 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'main.blg'
+[128] biber-MSWIN64:340> INFO - === 
+[173] Biber.pm:420> INFO - Reading 'main.bcf'
+[319] Biber.pm:994> INFO - Found 40 citekeys in bib section 0
+[337] Biber.pm:4463> INFO - Processing section 0
+[352] Biber.pm:4654> INFO - Looking for bibtex file 'references.bib' for section 0
+[408] bibtex.pm:1713> INFO - LaTeX decoding ...
+[493] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[800] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[801] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[801] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[801] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[837] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[867] bbl.pm:779> INFO - Output to main.bbl
+[868] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\Gian\AppData\Local\Temp\biber_tmp_aPeV\33e59b5ca9ec342068223d604c3f8d55_2868.utf8, line 412, warning: 26 characters of junk seen at toplevel
+[868] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\Gian\AppData\Local\Temp\biber_tmp_aPeV\33e59b5ca9ec342068223d604c3f8d55_2868.utf8, line 422, warning: 12 characters of junk seen at toplevel
+[868] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\Gian\AppData\Local\Temp\biber_tmp_aPeV\33e59b5ca9ec342068223d604c3f8d55_2868.utf8, line 454, warning: 31 characters of junk seen at toplevel
+[868] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\Gian\AppData\Local\Temp\biber_tmp_aPeV\33e59b5ca9ec342068223d604c3f8d55_2868.utf8, line 571, warning: 22 characters of junk seen at toplevel
+[868] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[868] Biber.pm:133> INFO - WARNINGS: 5

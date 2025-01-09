@@ -342,6 +342,7 @@
       \strng{authornamehash}{06b18eea39cfb0321538edbcaa1ecdc8}
       \strng{authorfullhash}{2c8e21111abd2052a78b16c9d23a5aaa}
       \strng{authorfullhashraw}{2c8e21111abd2052a78b16c9d23a5aaa}
+      \field{extraname}{1}
       \field{sortinit}{8}
       \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
@@ -1382,45 +1383,297 @@
       \field{pages}{193\bibrangedash 217}
       \range{pages}{25}
     \endentry
-    \entry{parsopoulos2002recent}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=5435fc795b3b8a8c66f49df4d3f46eeb}{%
-           family={Parsopoulos},
-           familyi={P\bibinitperiod},
-           given={K.\bibnamedelimi E.},
-           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=785fa682db8be4f8dd6b7d6879397775}{%
-           family={Vrahatis},
-           familyi={V\bibinitperiod},
-           given={M.\bibnamedelimi N.},
-           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+    \entry{mohamed2020constructing}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=45bda9c3bfd016ec165c976d25188983}{%
+           family={Mohamed},
+           familyi={M\bibinitperiod},
+           given={S.\bibnamedelimi B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=327992f4a13098c34b4056ef0e22dd49}{%
+           family={Abdullah},
+           familyi={A\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c81a37f31a3f50c57e7f06c201a0e0b5}{%
+           family={Othman},
+           familyi={O\bibinitperiod},
+           given={Z.\bibnamedelimi A.},
+           giveni={Z\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{386d9b6a19e43af551f071343a1a011c}
-      \strng{fullhash}{386d9b6a19e43af551f071343a1a011c}
-      \strng{fullhashraw}{386d9b6a19e43af551f071343a1a011c}
-      \strng{bibnamehash}{386d9b6a19e43af551f071343a1a011c}
-      \strng{authorbibnamehash}{386d9b6a19e43af551f071343a1a011c}
-      \strng{authornamehash}{386d9b6a19e43af551f071343a1a011c}
-      \strng{authorfullhash}{386d9b6a19e43af551f071343a1a011c}
-      \strng{authorfullhashraw}{386d9b6a19e43af551f071343a1a011c}
+      \strng{namehash}{9b02c1c8cd8bf9e378b30f1c770c5ddd}
+      \strng{fullhash}{d74bd777922ae5a37eb94ebc20352b80}
+      \strng{fullhashraw}{d74bd777922ae5a37eb94ebc20352b80}
+      \strng{bibnamehash}{d74bd777922ae5a37eb94ebc20352b80}
+      \strng{authorbibnamehash}{d74bd777922ae5a37eb94ebc20352b80}
+      \strng{authornamehash}{9b02c1c8cd8bf9e378b30f1c770c5ddd}
+      \strng{authorfullhash}{d74bd777922ae5a37eb94ebc20352b80}
+      \strng{authorfullhashraw}{d74bd777922ae5a37eb94ebc20352b80}
       \field{sortinit}{6}
       \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{This paper introduces neighborhood-based swarming in both global and local variants as part of the early development of the Multi-Swarm Optimization (MSO) approach.}
-      \field{journaltitle}{Natural Computing}
-      \field{number}{2-3}
-      \field{title}{Recent approaches to global optimization problems through Particle Swarm Optimization}
-      \field{volume}{1}
-      \field{year}{2002}
-      \field{pages}{235\bibrangedash 306}
-      \range{pages}{72}
+      \field{journaltitle}{Journal of Physics: Conference Series}
+      \field{number}{2}
+      \field{title}{Constructing population of initial university timetable: Design and analysis}
+      \field{volume}{1529}
+      \field{year}{2020}
+      \field{pages}{022075}
+      \range{pages}{1}
       \verb{doi}
-      \verb 10.1023/A:1016568309421
+      \verb 10.1088/1742-6596/1529/2/022075
       \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1088/1742-6596/1529/2/022075
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1088/1742-6596/1529/2/022075
+      \endverb
+    \endentry
+    \entry{ClusterAnalysis2023}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=5d0ddda3a367ceb26fbaeca02e391c22}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d6cfb2b8c4b3f9440ec4642438129367}{%
+           family={Doe},
+           familyi={D\bibinitperiod},
+           given={Jane},
+           giveni={J\bibinitperiod}}}%
+        {{hash=25656f474933f66104dd9249f527f141}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d05b2cf738af6ea5fe08887b681d257}
+      \strng{fullhash}{979468a24caa522660aad98affaf4e32}
+      \strng{fullhashraw}{979468a24caa522660aad98affaf4e32}
+      \strng{bibnamehash}{979468a24caa522660aad98affaf4e32}
+      \strng{authorbibnamehash}{979468a24caa522660aad98affaf4e32}
+      \strng{authornamehash}{2d05b2cf738af6ea5fe08887b681d257}
+      \strng{authorfullhash}{979468a24caa522660aad98affaf4e32}
+      \strng{authorfullhashraw}{979468a24caa522660aad98affaf4e32}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ResearchGate}
+      \field{note}{Accessed: 2025-01-03}
+      \field{title}{Cluster Analysis of Open Research Data: A Case for Replication Metadata}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/368492037_Cluster_Analysis_of_Open_Research_Data_A_Case_for_Replication_Metadata
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/368492037_Cluster_Analysis_of_Open_Research_Data_A_Case_for_Replication_Metadata
+      \endverb
+    \endentry
+    \entry{Blitzstein2014-intro}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=295407bf42e4f5cd54995a3fb13351d8}{%
+           family={Blitzstein},
+           familyi={B\bibinitperiod},
+           given={Joseph\bibnamedelima K},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=57f3f25f58a60f557d446fcf3a27d81b}{%
+           family={Hwang},
+           familyi={H\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Chapman}%
+        {Hall/CRC}%
+      }
+      \strng{namehash}{14d466464b02dfd0b97fd181d95c1a31}
+      \strng{fullhash}{14d466464b02dfd0b97fd181d95c1a31}
+      \strng{fullhashraw}{14d466464b02dfd0b97fd181d95c1a31}
+      \strng{bibnamehash}{14d466464b02dfd0b97fd181d95c1a31}
+      \strng{authorbibnamehash}{14d466464b02dfd0b97fd181d95c1a31}
+      \strng{authornamehash}{14d466464b02dfd0b97fd181d95c1a31}
+      \strng{authorfullhash}{14d466464b02dfd0b97fd181d95c1a31}
+      \strng{authorfullhashraw}{14d466464b02dfd0b97fd181d95c1a31}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1st}
+      \field{title}{Introduction to Probability}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://doi.org/10.1201/b17359
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1201/b17359
+      \endverb
+    \endentry
+    \entry{yang2015discrete}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=8b9a8afb4153d569a17f211b83af9fac}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Xin-She},
+           giveni={X\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=3419aeb7f0c20567290feba65fec88f4}{%
+           family={Gandomi},
+           familyi={G\bibinitperiod},
+           given={Amir\bibnamedelima Hossein},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{9bd6c224d64ad5c7f41194de4e90b46c}
+      \strng{fullhash}{9bd6c224d64ad5c7f41194de4e90b46c}
+      \strng{fullhashraw}{9bd6c224d64ad5c7f41194de4e90b46c}
+      \strng{bibnamehash}{9bd6c224d64ad5c7f41194de4e90b46c}
+      \strng{authorbibnamehash}{9bd6c224d64ad5c7f41194de4e90b46c}
+      \strng{authornamehash}{9bd6c224d64ad5c7f41194de4e90b46c}
+      \strng{authorfullhash}{9bd6c224d64ad5c7f41194de4e90b46c}
+      \strng{authorfullhashraw}{9bd6c224d64ad5c7f41194de4e90b46c}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Soft Computing}
+      \field{title}{A Discrete Bat Algorithm for the Community Detection Problem}
+      \field{volume}{26}
+      \field{year}{2015}
+      \field{pages}{283\bibrangedash 292}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.asoc.2014.10.035
+      \endverb
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/277598076_A_Discrete_Bat_Algorithm_for_the_Community_Detection_Problem
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/277598076_A_Discrete_Bat_Algorithm_for_the_Community_Detection_Problem
+      \endverb
+    \endentry
+    \entry{bolaji2011abc}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=555331589fc9a2cf6a5d96750d4b20cb}{%
+           family={Bolaji},
+           familyi={B\bibinitperiod},
+           given={Ayodele\bibnamedelima Lukman},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=366357e6a479584884e3b8523703a5ee}{%
+           family={Khader},
+           familyi={K\bibinitperiod},
+           given={Abdulkadir\bibnamedelima Taofeek},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=30b9c4e076cd57fb882101daa43660b8}{%
+           family={Al-Betar},
+           familyi={A\bibinithyphendelim B\bibinitperiod},
+           given={Mohammad\bibnamedelima Abuhamdah},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d87a41e6bfea43ee262a1cea08cc9d78}{%
+           family={Awadallah},
+           familyi={A\bibinitperiod},
+           given={Mohammad\bibnamedelima Al},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Islamic Azad University}%
+      }
+      \strng{namehash}{d56f0761a4f2dbb729053eac63940e47}
+      \strng{fullhash}{80fd94dda141e81cafdc916aebffa49e}
+      \strng{fullhashraw}{80fd94dda141e81cafdc916aebffa49e}
+      \strng{bibnamehash}{d56f0761a4f2dbb729053eac63940e47}
+      \strng{authorbibnamehash}{d56f0761a4f2dbb729053eac63940e47}
+      \strng{authornamehash}{d56f0761a4f2dbb729053eac63940e47}
+      \strng{authorfullhash}{80fd94dda141e81cafdc916aebffa49e}
+      \strng{authorfullhashraw}{80fd94dda141e81cafdc916aebffa49e}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computer Science and Information Security}
+      \field{number}{7}
+      \field{title}{Artificial bee colony algorithm for curriculum-based course timetabling problem}
+      \field{volume}{13}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+    \endentry
+    \entry{kenekayoro2016aco}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=b43aa0dc05cceafdf99d1ffb2c6a3485}{%
+           family={Kenekayoro},
+           familyi={K\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=01d0827c036569a385bd1beffae28329}{%
+           family={Godswill},
+           familyi={G\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{b009b14d4b08fce1b4882d24bbb15956}
+      \strng{fullhash}{b009b14d4b08fce1b4882d24bbb15956}
+      \strng{fullhashraw}{b009b14d4b08fce1b4882d24bbb15956}
+      \strng{bibnamehash}{b009b14d4b08fce1b4882d24bbb15956}
+      \strng{authorbibnamehash}{b009b14d4b08fce1b4882d24bbb15956}
+      \strng{authornamehash}{b009b14d4b08fce1b4882d24bbb15956}
+      \strng{authorfullhash}{b009b14d4b08fce1b4882d24bbb15956}
+      \strng{authorfullhashraw}{b009b14d4b08fce1b4882d24bbb15956}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1401.5156}
+      \field{title}{Greedy Ant Colony Optimization Strategy for Solving the Curriculum Based University Course Timetabling Problem}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1401.5156
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1401.5156
+      \endverb
+    \endentry
+    \entry{beyrouthy2014hsa}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=cc92281d7f040c696cc68d66c85e585e}{%
+           family={Beyrouthy},
+           familyi={B\bibinitperiod},
+           given={Cyril},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6534ca9767f08770aafcd33d5a3a0fc1}{%
+           family={Raghavan},
+           familyi={R\bibinitperiod},
+           given={Niranjan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=42be5290247c03f2b49f180986314ed7}{%
+           family={Fraser},
+           familyi={F\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e62ef9b2fe4c06aade372f50109e6bca}{%
+           family={McCollum},
+           familyi={M\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{008be8945b980db76f5d6b8e07354422}
+      \strng{fullhash}{17c12156c41f56e0477dd97a4c160da4}
+      \strng{fullhashraw}{17c12156c41f56e0477dd97a4c160da4}
+      \strng{bibnamehash}{008be8945b980db76f5d6b8e07354422}
+      \strng{authorbibnamehash}{008be8945b980db76f5d6b8e07354422}
+      \strng{authornamehash}{008be8945b980db76f5d6b8e07354422}
+      \strng{authorfullhash}{17c12156c41f56e0477dd97a4c160da4}
+      \strng{authorfullhashraw}{17c12156c41f56e0477dd97a4c160da4}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1401.5156}
+      \field{title}{A harmony search algorithm for the curriculum-based course timetabling problem}
+      \field{year}{2014}
     \endentry
   \enddatalist
 \endrefsection

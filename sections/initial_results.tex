@@ -1,0 +1,80 @@
+\section{Initial Results}
+\label{sec:initial_results}
+
+\subsection{Dataset}
+
+The ITC2007 benchmark datasets are widely used in the field of timetable optimization for evaluating the MSPSO algorithm; three specific instances were chosen to represent different categories
+
+\begin{itemize}
+    \item \textbf{Early Instance:} \texttt{COMP01}
+    \item \textbf{Late Instance:} \texttt{COMP08}
+    \item \textbf{Hidden Instance:} \texttt{COMP15}
+\end{itemize}
+
+\subsection{Experiment Configuration}
+
+The experiments were conducted with the following configuration:
+
+\begin{itemize}
+    \item Each instance was executed for \textbf{five independent runs} to ensure the reliability of the results.
+    \item The algorithm was configured with specific parameters as follows:
+        \begin{itemize}
+            \item \textbf{Constriction Factor (\(\chi\))}: \(0.729\)
+            \item \textbf{Cognitive Coefficient (\(c_1\))}: \(1.0\)
+            \item \textbf{Social Coefficient (\(c_2\))}: \(1.0\)
+            \item \textbf{Population Size}: \(5\) particles per swarm
+            \item \textbf{Number of Swarms}: \(1\)
+            \item \textbf{Maximum Number of Excess Swarms}: \(3\)
+            \item \textbf{Quantum Cloud Radius (\(R_{\text{cloud}}\))}: \(0.5\)
+        \end{itemize}
+    \item Each run terminated after a maximum of 500 iterations or upon meeting the optimal fitness value (i.e., zero violations).
+    \item Results were compared with other swarm-based approaches such as Artificial Bee Colony (ABC) \cite{bolaji2011abc}, Improved Artificial Bee Colony (IABC) \cite{Bolaji2011-abc}, Ant Colony Optimization (ACO) \cite{kenekayoro2016aco}, and Harmony Search Algorithm (HSA) \cite{beyrouthy2014hsa}.
+
+\end{itemize}
+
+\subsection{Results}
+The results are summarized in Table~\ref{table:initial_results}, which reports the \textbf{best}, \textbf{worst}, and \textbf{average} penalties for the MSPSO algorithm over the chosen instances. For completeness, a comparison with other methods is also reported to demonstrate the strength of the MSPSO algorithm.
+
+\begin{table}[H]
+\centering
+\caption{Performance of MSPSO on ITC2007 Instances (after 5 runs)}
+\label{table:initial_results}
+\begin{tabular}{|c|c|c|c|}
+\hline
+\textbf{Instance} & \textbf{Best} & \textbf{Worst} & \textbf{Average} \\ \hline
+\texttt{COMP01}   & 216           & 297            & 263.8            \\ \hline
+\texttt{COMP08}   & 657           & 765            & 695.8            \\ \hline
+\texttt{COMP15}   & 648           & 870            & 781.4            \\ \hline
+\end{tabular}
+\end{table}
+
+\paragraph{Comparison with Other Approaches}\
+
+Table~\ref{table:comparison_results} compares the performance of MSPSO with other swarm-based algorithms on the same instances.
+
+\begin{table}[H]
+\centering
+\caption{Comparison of MSPSO with Other Swarm-Based Approaches}
+\label{table:comparison_results}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+\textbf{Instance} & \textbf{MSPSO} & \textbf{ABC} & \textbf{IABC} & \textbf{ACO} & \textbf{HSA} \\ \hline
+\texttt{COMP01}   & 216            & -            & 24            & 10           & 323          \\ \hline
+\texttt{COMP08}   & 657            & 218          & 173           & 112          & 645          \\ \hline
+\texttt{COMP15}   & 648            & 284          & 238           & 189          & 665          \\ \hline
+\end{tabular}
+\end{table}
+
+\subsection{Observation}
+
+Observations from the preliminary results show the performance of the MSPSO algorithm over three different instances, namely COMP01, COMP08, and COMP15, which represent early, late, and hidden categories, respectively.
+
+For the early dataset represented by the instance of \texttt{COMP01}, MSPSO was able to show competitive performance with a \textbf{best penalty of 216}. Still, it was surpassed by other methods, including ACO with a \textbf{best penalty of 10} and IABC with a \textbf{best penalty of 24}, thus indicating the need for further improvement in this category. Nonetheless, MSPSO's performance remained relatively stable throughout all runs since the difference between the \textbf{worst penalty of 297} and the \textbf{average penalty of 263.8} is minimal.
+
+In the \texttt{COMP08} instance, classified as a late dataset, the MSPSO reached a \textbf{best penalty of 657}, though not as good as the penalties found by ACO, with \textbf{112}, and IABC, with a penalty of \textbf{173}. This instance had a further gap between \textbf{best} and \textbf{worst penalties of 765}, and thus more variation in the different solutions found among different runs. This may indicate a sensitivity of the algorithm to the complex constraints within late instances.
+
+The \texttt{COMP15} instance was the most challenging to the MSPSO algorithm since it represented a hidden dataset and attained a \textbf{best penalty of 648}. This was once again surpassed by ACO at \textbf{189} and IABC at \textbf{238}. However, MSPSO surpassed HSA in this regard since the latter had a penalty of \textbf{665}. In this case, a wide range exists between the best (648) and worst (870) penalties, indicating higher difficulty in getting optimal solutions to hidden datasets.
+
+In summary, results for the proposed MSPSO are fairly consistent against all instances despite having less effectiveness on the very complex constraints. Finally, even such an algorithm demonstrates good stability upon changing dataset classes and can successfully be applied toward obtaining competitive results.
+
+\break

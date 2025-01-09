@@ -1,4 +1,8 @@
 \documentclass{article}
+
+% Packages
+\usepackage{algorithm}
+\usepackage{algpseudocode}
 \usepackage{amsmath}
 \usepackage{enumitem}
 \usepackage{graphicx}
@@ -12,26 +16,49 @@
 \usepackage[table]{xcolor}
 \usepackage{forloop}
 \usepackage{longtable}
+\usepackage{times} 
+\usepackage{setspace}
+\onehalfspacing
+
+% Custom commands
 \newcounter{loopcntr}
 \newcommand{\rpt}[2][1]{ \forloop{loopcntr}{0}{\value{loopcntr}<#1}{#2} }
 \newcommand{\on}[1][1]{\forloop{loopcntr}{0}{\value{loopcntr}<#1}{&\cellcolor{gray}}}
 \newcommand{\off}[1][1]{\forloop{loopcntr}{0}{\value{loopcntr}<#1}{&}}
 
+
 \newenvironment{subs}
   {\adjustwidth{3em}{0pt}}
   {\endadjustwidth}
 
-\titleformat*{\section}{\small\bfseries}
-\titleformat*{\subsection}{\small\bfseries}
-\titleformat*{\subsubsection}{\small\bfseries}
-\titleformat*{\paragraph}{\small\bfseries}
-\titleformat*{\subparagraph}{\small\bfseries}
+\titleformat{\section}
+  {\Large\bfseries} % Larger font size for sections
+  {\thesection} % Add section numbering
+  {1em} % Spacing
+  {}
 
+\titleformat{\subsection}
+  {\large\bfseries} % Smaller font size for subsections
+  {\thesubsection} % Add subsection numbering
+  {1em}
+  {}
 
+\titleformat{\subsubsection}
+  {\normalsize\bfseries} % Normal font size for subsubsections
+  {\thesubsubsection} % Add subsubsection numbering
+  {1em}
+  {}
+
+% Bibliography
 \addbibresource{references.bib}
+
 \begin{document}
 
-\title{\textbf{OMU: A Multi-Swarm Particle Swarm Optimization Solution for the University Course Timetabling Problem}}
+% Set line spacing
+\onehalfspacing
+
+% Title
+\title{\textbf{ChronoSwarm: A Multi-Swarm Particle Swarm Optimization Solution for the University Course Timetabling Problem}}
 \author{Gian Myrl D. Renomeron\\
     CMSC 199.1: Research in Computer Science I\\
     Division of Natural Sciences and Mathematics\\
@@ -41,9 +68,16 @@
 \date{}
 
 \maketitle
-\pagebreak
-    \section*{OMU: A Multi-Swarm Particle Swarm Optimization Solution for the University Course Timetabling Problem}
 
+% Abstract
+\pagebreak
+\input{sections/abstract}
+
+% Table of Contents
+\pagebreak
+\tableofcontents
+\pagebreak
+% Main Content
 \input{sections/introduction}
 \input{sections/background}
 \input{sections/related_works}
@@ -53,7 +87,10 @@
 \input{sections/significance}
 \input{sections/theoretical_framework}
 \input{sections/methodology}
+\input{sections/initial_results}
 \input{sections/schedule}
 
+% Bibliography
 \printbibliography 
+
 \end{document}

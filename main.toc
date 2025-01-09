@@ -1,0 +1,35 @@
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Background of the Study}{5}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Related Works}{6}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Statement of the Problem}{8}{section.2}%
+\contentsline {section}{\numberline {3}Objectives of the Study}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}General Objective}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Specific Objectives}{9}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Scope and Limitation}{9}{section.4}%
+\contentsline {section}{\numberline {5}Significance of the Study}{10}{section.5}%
+\contentsline {section}{\numberline {6}Theoretical and Conceptual Framework}{10}{section.6}%
+\contentsline {section}{\numberline {7}Methodology}{11}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Data Collection}{11}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Data Processing}{13}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Approach Construction}{17}{subsection.7.3}%
+\contentsline {subsubsection}{\numberline {7.3.1}Initialization Phase}{18}{subsubsection.7.3.1}%
+\contentsline {subsubsection}{\numberline {7.3.2}Optimization Phase}{21}{subsubsection.7.3.2}%
+\contentsline {paragraph}{Initialization of Parameters}{21}{subsubsection.7.3.2}%
+\contentsline {paragraph}{Anti-Convergence Check}{23}{table.2}%
+\contentsline {paragraph}{Exclusion Mechanism}{25}{table.2}%
+\contentsline {paragraph}{Quantum Reinitialization}{25}{table.2}%
+\contentsline {paragraph}{Particle Update}{27}{algorithm.2}%
+\contentsline {subparagraph}{Move and Swap Operations}{29}{algorithm.2}%
+\contentsline {paragraph}{Global Best Update}{30}{algorithm.2}%
+\contentsline {paragraph}{Output}{30}{algorithm.2}%
+\contentsline {subsection}{\numberline {7.4}Approach Evaluation}{31}{subsection.7.4}%
+\contentsline {paragraph}{Validation Tool}{31}{subsection.7.4}%
+\contentsline {paragraph}{Evaluation Metrics}{32}{figure.8}%
+\contentsline {subsection}{\numberline {7.5}Deployment}{33}{subsection.7.5}%
+\contentsline {section}{\numberline {8}Initial Results}{33}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Dataset}{33}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Experiment Configuration}{34}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Results}{34}{subsection.8.3}%
+\contentsline {paragraph}{Comparison with Other Approaches}{35}{table.3}%
+\contentsline {subsection}{\numberline {8.4}Observation}{35}{subsection.8.4}%
+\contentsline {section}{\numberline {9}Schedule of Activities}{37}{section.9}%
